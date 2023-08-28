@@ -1,4 +1,18 @@
 {
+  "user": [
+    {
+      "name": "NENCY",
+      "email": "kotadiyanency@gmail.com",
+      "password": "fgrfDFD353@@",
+      "id": 1
+    },
+    {
+      "name": "POONAM",
+      "email": "poonam@gmail.com",
+      "password": "dgfdSDF3543@@",
+      "id": 2
+    }
+  ],
   "face": [
     {
       "id": 1,
@@ -7,15 +21,15 @@
       "price": 655,
       "pricesrong": 875,
       "description": "25% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 3.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"13 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
       },
-      "calcu":"9 Shades"
+      "calcu": "9 Shades"
     },
     {
       "id": 2,
@@ -24,32 +38,32 @@
       "price": 285,
       "pricesrong": 299,
       "description": "5% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 3.7
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"10 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "10 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 3,
       "image": "https://www.lakmeindia.com/cdn/shop/files/24451_H-8901030742439copy_700x.jpg?v=1688540192",
       "title": "Lakmé 9 to 5 Primer + Matte Perfect Cover ...",
       "price": 495,
-      "pricesrong": 550 ,
+      "pricesrong": 550,
       "description": "10% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"1 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
       },
-      "calcu":"20 Shades"
+      "calcu": "20 Shades"
     },
     {
       "id": 4,
@@ -58,15 +72,15 @@
       "price": 540,
       "pricesrong": 600,
       "description": "10% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"35 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "35 Verified Ratings"
       },
-      "calcu":"6 Shades"
+      "calcu": "6 Shades"
     },
     {
       "id": 5,
@@ -75,15 +89,15 @@
       "price": 180,
       "pricesrong": 400,
       "description": "25% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"10 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "10 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 6,
@@ -92,15 +106,15 @@
       "price": 175,
       "pricesrong": 250,
       "description": "5% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"4 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "4 Verified Ratings"
       },
-      "calcu":"2 Shades"
+      "calcu": "2 Shades"
     },
     {
       "id": 7,
@@ -109,32 +123,32 @@
       "price": 333,
       "pricesrong": 350,
       "description": "5% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"11 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "11 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 8,
       "image": "https://www.lakmeindia.com/cdn/shop/products/664563_700x.png?v=1653486183",
       "title": "Lakmé Absolute Argan Oil Serum Foundation",
-      "price": 660 ,
+      "price": 660,
       "pricesrong": 825,
       "description": "20% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.6
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"9 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "9 Verified Ratings"
       },
-      "calcu":"10 Shades"
+      "calcu": "10 Shades"
     },
     {
       "id": 9,
@@ -143,15 +157,15 @@
       "price": 640,
       "pricesrong": 800,
       "description": "20% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"12 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "12 Verified Ratings"
       },
-      "calcu":"10 Shades"
+      "calcu": "10 Shades"
     },
     {
       "id": 10,
@@ -160,15 +174,15 @@
       "price": 468,
       "pricesrong": 585,
       "description": "20% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"13 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
       },
-      "calcu":"12 Shades"
+      "calcu": "12 Shades"
     },
     {
       "id": 11,
@@ -177,15 +191,15 @@
       "price": 745,
       "pricesrong": 875,
       "description": "15% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"3 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
       },
-      "calcu":"12 Shades"
+      "calcu": "12 Shades"
     },
     {
       "id": 12,
@@ -194,15 +208,15 @@
       "price": 600,
       "pricesrong": 875,
       "description": "25% off",
-      "category":"Foundation",
+      "category": "Foundation",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"7 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "7 Verified Ratings"
       },
-      "calcu":"9 Shades"
+      "calcu": "9 Shades"
     },
     {
       "id": 12,
@@ -211,15 +225,15 @@
       "price": 699,
       "pricesrong": 875,
       "description": "20% off",
-      "category":"Primer",
+      "category": "Primer",
       "rating": {
         "rate": 3.2
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 13,
@@ -228,15 +242,15 @@
       "price": 1699,
       "pricesrong": 2024,
       "description": "16% off",
-      "category":"Primer",
+      "category": "Primer",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"6 Shades"
+      "calcu": "6 Shades"
     },
     {
       "id": 14,
@@ -245,15 +259,15 @@
       "price": 1199,
       "pricesrong": 1550,
       "description": "23% off",
-      "category":"Primer",
+      "category": "Primer",
       "rating": {
         "rate": 3.2
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 15,
@@ -262,15 +276,15 @@
       "price": 1799,
       "pricesrong": 1999,
       "description": "10% off",
-      "category":"Primer",
+      "category": "Primer",
       "rating": {
         "rate": 4.5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 16,
@@ -279,15 +293,15 @@
       "price": 1299,
       "pricesrong": 1550,
       "description": "16% off",
-      "category":"Primer",
+      "category": "Primer",
       "rating": {
         "rate": 2
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"1 Shades"
+      "calcu": "1 Shades"
     },
     {
       "id": 17,
@@ -296,16 +310,16 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category":"Highlighter",
+      "category": "Highlighter",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"8 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
       },
-      "calcu":"3 Shades"
-    }, 
+      "calcu": "3 Shades"
+    },
     {
       "id": 18,
       "image": "https://www.lakmeindia.com/cdn/shop/files/DazzleAllDayFoundation_HighlighterSet_700x.jpg?v=1688543014",
@@ -313,15 +327,15 @@
       "price": 999,
       "pricesrong": 1125,
       "description": "11% off",
-      "category":"Highlighter",
+      "category": "Highlighter",
       "rating": {
         "rate": 4
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"1 Shades"
+      "calcu": "1 Shades"
     },
     {
       "id": 19,
@@ -330,32 +344,32 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category":"Compact",
+      "category": "Compact",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
-    }, 
-     {
+      "calcu": "8 Shades"
+    },
+    {
       "id": 20,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteBlurPerfectPrimer_700x.png?v=1653488296",
       "title": "Lakmé 9to5 Flawless Matte Complexion Compact",
       "price": 495,
-      "pricesrong": 550 ,
+      "pricesrong": 550,
       "description": "10% off",
-      "category":"Compact",
+      "category": "Compact",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"11 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "11 Verified Ratings"
       },
-      "calcu":"3 Shades"
+      "calcu": "3 Shades"
     },
     {
       "id": 21,
@@ -364,15 +378,15 @@
       "price": 745,
       "pricesrong": 875,
       "description": "15% off",
-      "category":"Compact",
+      "category": "Compact",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"24 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "24 Verified Ratings"
       },
-      "calcu":"6 Shades"
+      "calcu": "6 Shades"
     },
     {
       "id": 22,
@@ -381,15 +395,15 @@
       "price": 180,
       "pricesrong": 400,
       "description": "10% off",
-      "category":"Compact",
+      "category": "Compact",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 23,
@@ -398,15 +412,15 @@
       "price": 219,
       "pricesrong": 230,
       "description": "5% off",
-      "category":"Compact",
+      "category": "Compact",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"11 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "11 Verified Ratings"
       },
-      "calcu":"3 Shades"
+      "calcu": "3 Shades"
     },
     {
       "id": 24,
@@ -415,18 +429,18 @@
       "price": 285,
       "pricesrong": 650,
       "description": "10% off",
-      "category":"Compact",
+      "category": "Compact",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"29 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "29 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     }
   ],
-  "lips":[
+  "lips": [
     {
       "id": 1,
       "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsolutePrecisionLipPaintValueSet_700x.jpg?v=1688544468",
@@ -434,32 +448,32 @@
       "price": 999,
       "pricesrong": 1300,
       "description": "23% off",
-      "category":"Lipstick",
+      "category": "Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"29 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "29 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 2,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Cherry-Chic-removebg-preview_400x.png?v=1672836973",
       "title": "Lakmé 9 to 5 Primer + Matte Lip Color",
       "price": 495,
-      "pricesrong": 550 ,
+      "pricesrong": 550,
       "description": "10% off",
-      "category":"Lipstick",
+      "category": "Lipstick",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"69 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "69 Verified Ratings"
       },
-      "calcu":"35 Shades"
+      "calcu": "35 Shades"
     },
     {
       "id": 3,
@@ -468,15 +482,15 @@
       "price": 700,
       "pricesrong": 825,
       "description": "15% off",
-      "category":"Lipstick",
+      "category": "Lipstick",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"20 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
       },
-      "calcu":"12 Shades"
+      "calcu": "12 Shades"
     },
     {
       "id": 4,
@@ -485,15 +499,15 @@
       "price": 285,
       "pricesrong": 299,
       "description": "5% off",
-      "category":"Lipstick",
+      "category": "Lipstick",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"24 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "24 Verified Ratings"
       },
-      "calcu":"20 Shades"
+      "calcu": "20 Shades"
     },
     {
       "id": 5,
@@ -502,15 +516,15 @@
       "price": 615,
       "pricesrong": 700,
       "description": "10% off",
-      "category":"Lipstick",
+      "category": "Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"29 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "29 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 6,
@@ -519,15 +533,15 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"1 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
       },
-      "calcu":"12 Shades"
+      "calcu": "12 Shades"
     },
     {
       "id": 7,
@@ -536,15 +550,15 @@
       "price": 330,
       "pricesrong": 349,
       "description": "5% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"648 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "648 Verified Ratings"
       },
-      "calcu":"40 Shades"
+      "calcu": "40 Shades"
     },
     {
       "id": 8,
@@ -553,15 +567,15 @@
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"29 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "29 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 9,
@@ -570,15 +584,15 @@
       "price": 574,
       "pricesrong": 675,
       "description": "15% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"27 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "27 Verified Ratings"
       },
-      "calcu":"20 Shades"
+      "calcu": "20 Shades"
     },
     {
       "id": 10,
@@ -587,15 +601,15 @@
       "price": 680,
       "pricesrong": 800,
       "description": "15% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"3 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
       },
-      "calcu":"25 Shades"
+      "calcu": "25 Shades"
     },
     {
       "id": 11,
@@ -604,15 +618,15 @@
       "price": 449,
       "pricesrong": 499,
       "description": "10% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"25 Shades"
+      "calcu": "25 Shades"
     },
     {
       "id": 12,
@@ -621,15 +635,15 @@
       "price": 1099,
       "pricesrong": 1600,
       "description": "31% off",
-      "category":"Liquid Lipstick",
+      "category": "Liquid Lipstick",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 13,
@@ -638,15 +652,15 @@
       "price": 160,
       "pricesrong": 250,
       "description": "31% off",
-      "category":"Lip Blam",
+      "category": "Lip Blam",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"13 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
       },
-      "calcu":"7 Shades"
+      "calcu": "7 Shades"
     },
     {
       "id": 14,
@@ -655,15 +669,15 @@
       "price": 159,
       "pricesrong": 199,
       "description": "31% off",
-      "category":"Lip Blam",
+      "category": "Lip Blam",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"9 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "9 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 15,
@@ -672,15 +686,15 @@
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
-      "category":"Lip Gloss",
+      "category": "Lip Gloss",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"8 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 16,
@@ -689,15 +703,15 @@
       "price": 675,
       "pricesrong": 1350,
       "description": "50% off",
-      "category":"Lip Gloss",
+      "category": "Lip Gloss",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"9 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "9 Verified Ratings"
       },
-      "calcu":"4 Shades"
+      "calcu": "4 Shades"
     },
     {
       "id": 17,
@@ -706,18 +720,18 @@
       "price": 675,
       "pricesrong": 1000,
       "description": "31% off",
-      "category":"Lip Gloss",
+      "category": "Lip Gloss",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     }
   ],
-  "eyes":[
+  "eyes": [
     {
       "id": 1,
       "image": "hhttps://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
@@ -725,32 +739,32 @@
       "price": 355,
       "pricesrong": 375,
       "description": "5% off",
-      "category":"Eyeliner",
+      "category": "Eyeliner",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"11 Shades"
+      "calcu": "11 Shades"
     },
     {
       "id": 2,
       "image": "https://www.lakmeindia.com/cdn/shop/files/grey_700x.png?v=1686743654",
       "title": "Lakmé Absolute Shine Line Eye Liner",
-      "price": 473 ,
+      "price": 473,
       "pricesrong": 525,
       "description": "10% off",
-      "category":"Eyeliner",
+      "category": "Eyeliner",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"5 Shades"
+      "calcu": "5 Shades"
     },
     {
       "id": 3,
@@ -759,15 +773,15 @@
       "price": 539,
       "pricesrong": 599,
       "description": "10% off",
-      "category":"Eyeliner",
+      "category": "Eyeliner",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 4,
@@ -776,15 +790,15 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category":"Eyeliner",
+      "category": "Eyeliner",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"5 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
       },
-      "calcu":"10 Shades"
+      "calcu": "10 Shades"
     },
     {
       "id": 5,
@@ -793,15 +807,15 @@
       "price": 495,
       "pricesrong": 550,
       "description": "10% off",
-      "category":"Eyeliner",
+      "category": "Eyeliner",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 6,
@@ -810,15 +824,15 @@
       "price": 245,
       "pricesrong": 260,
       "description": "6% off",
-      "category":"Eyeliner",
+      "category": "Eyeliner",
       "rating": {
         "rate": 4.7
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"14 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "14 Verified Ratings"
       },
-      "calcu":"5 Shades"
+      "calcu": "5 Shades"
     },
     {
       "id": 7,
@@ -827,15 +841,15 @@
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
-      "category":"Kajal",
+      "category": "Kajal",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"11 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "11 Verified Ratings"
       },
-      "calcu":"5 Shades"
+      "calcu": "5 Shades"
     },
     {
       "id": 8,
@@ -844,15 +858,15 @@
       "price": 85,
       "pricesrong": 150,
       "description": "6% off",
-      "category":"Kajal",
+      "category": "Kajal",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"14 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "14 Verified Ratings"
       },
-      "calcu":"5 Shades"
+      "calcu": "5 Shades"
     },
     {
       "id": 9,
@@ -861,15 +875,15 @@
       "price": 190,
       "pricesrong": 200,
       "description": "6% off",
-      "category":"Kajal",
+      "category": "Kajal",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"1 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
       },
-      "calcu":"7 Shades"
+      "calcu": "7 Shades"
     },
     {
       "id": 10,
@@ -878,15 +892,15 @@
       "price": 327,
       "pricesrong": 400,
       "description": "18% off",
-      "category":"Mascara",
+      "category": "Mascara",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"1 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
       },
-      "calcu":"7 Shades"
+      "calcu": "7 Shades"
     },
     {
       "id": 11,
@@ -895,15 +909,15 @@
       "price": 700,
       "pricesrong": 825,
       "description": "15% off",
-      "category":"Mascara",
+      "category": "Mascara",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     },
     {
       "id": 12,
@@ -912,15 +926,15 @@
       "price": 680,
       "pricesrong": 800,
       "description": "15% off",
-      "category":"Mascara",
+      "category": "Mascara",
       "rating": {
         "rate": 4.8
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"6 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "6 Verified Ratings"
       },
-      "calcu":"1 Shades"
+      "calcu": "1 Shades"
     },
     {
       "id": 13,
@@ -929,18 +943,18 @@
       "price": 649,
       "pricesrong": 875,
       "description": "26% off",
-      "category":"Mascara",
+      "category": "Mascara",
       "rating": {
         "rate": 4.9
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"28 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "28 Verified Ratings"
       },
-      "calcu":"30 Shades"
+      "calcu": "30 Shades"
     }
   ],
-  "skin":[
+  "skin": [
     {
       "id": 1,
       "image": "",
@@ -948,16 +962,16 @@
       "price": 539,
       "pricesrong": 599,
       "description": "10% off",
-      "category":"Skincare",
+      "category": "Skincare",
       "rating": {
         "rate": 5
       },
       "ratings": {
-        "img":"/image/1.PNG",
-        "count":"2 Verified Ratings"
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
       },
-      "calcu":"8 Shades"
+      "calcu": "8 Shades"
     }
   ],
-  "nails":[]
+  "nails": []
 }
