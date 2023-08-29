@@ -739,7 +739,7 @@
       "price": 355,
       "pricesrong": 375,
       "description": "5% off",
-      "category": "Eyeliner",
+      "category": "EYELINER",
       "rating": {
         "rate": 4.9
       },
@@ -756,7 +756,7 @@
       "price": 473,
       "pricesrong": 525,
       "description": "10% off",
-      "category": "Eyeliner",
+      "category": "EYELINER",
       "rating": {
         "rate": 5
       },
@@ -773,7 +773,7 @@
       "price": 539,
       "pricesrong": 599,
       "description": "10% off",
-      "category": "Eyeliner",
+      "category": "EYELINER",
       "rating": {
         "rate": 5
       },
@@ -790,7 +790,7 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category": "Eyeliner",
+      "category": "EYELINER",
       "rating": {
         "rate": 4.8
       },
@@ -807,7 +807,7 @@
       "price": 495,
       "pricesrong": 550,
       "description": "10% off",
-      "category": "Eyeliner",
+      "category": "EYELINER",
       "rating": {
         "rate": 5
       },
@@ -824,7 +824,7 @@
       "price": 245,
       "pricesrong": 260,
       "description": "6% off",
-      "category": "Eyeliner",
+      "category": "EYELINER",
       "rating": {
         "rate": 4.7
       },
@@ -841,7 +841,7 @@
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
-      "category": "Kajal",
+      "category": "KAJAL",
       "rating": {
         "rate": 5
       },
@@ -858,7 +858,7 @@
       "price": 85,
       "pricesrong": 150,
       "description": "6% off",
-      "category": "Kajal",
+      "category": "KAJAL",
       "rating": {
         "rate": 4.9
       },
@@ -875,7 +875,7 @@
       "price": 190,
       "pricesrong": 200,
       "description": "6% off",
-      "category": "Kajal",
+      "category": "KAJAL",
       "rating": {
         "rate": 5
       },
@@ -892,7 +892,7 @@
       "price": 327,
       "pricesrong": 400,
       "description": "18% off",
-      "category": "Mascara",
+      "category": "MASCARA",
       "rating": {
         "rate": 5
       },
@@ -909,7 +909,7 @@
       "price": 700,
       "pricesrong": 825,
       "description": "15% off",
-      "category": "Mascara",
+      "category": "MASCARA",
       "rating": {
         "rate": 5
       },
@@ -926,7 +926,7 @@
       "price": 680,
       "pricesrong": 800,
       "description": "15% off",
-      "category": "Mascara",
+      "category": "MASCARA",
       "rating": {
         "rate": 4.8
       },
@@ -943,7 +943,7 @@
       "price": 649,
       "pricesrong": 875,
       "description": "26% off",
-      "category": "Mascara",
+      "category": "MASCARA",
       "rating": {
         "rate": 4.9
       },
@@ -960,7 +960,7 @@
       "price": 795,
       "pricesrong": 995 ,
       "description": "20% off",
-      "category": "Eye Shadow",
+      "category": "EYE SHADOW",
       "rating": {
         "rate": 4.9
       },
@@ -977,7 +977,7 @@
       "price": 498,
       "pricesrong": 995,
       "description": "50% off",
-      "category": "Eye Shadow",
+      "category": "EYE SHADOW",
       "rating": {
         "rate": 4.8
       },
@@ -994,7 +994,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "Eye Shadow",
+      "category": "EYE SHADOW",
       "rating": {
         "rate": 5
       },
@@ -1011,7 +1011,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "Eye Shadow",
+      "category": "EYE SHADOW",
       "rating": {
         "rate": 4
       },
@@ -1028,7 +1028,7 @@
       "price": 795,
       "pricesrong": 995,
       "description": "20% off",
-      "category": "Eye Shadow",
+      "category": "EYE SHADOW",
       "rating": {
         "rate": 4.9
       },
