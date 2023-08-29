@@ -348,8 +348,8 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category": "Compact",
-=======
+      "category": "Compact"
+    },
     {
       "id": 2,
       "image": "https://www.lakmeindia.com/cdn/shop/files/29618_H-8901030964527_700x.jpg?v=1686129385",
@@ -1461,8 +1461,9 @@
       },
       "calcu": "8 Shades"
     }
-  ]
-    }
   ],
+    
+
+  
   "nails": []
 }
