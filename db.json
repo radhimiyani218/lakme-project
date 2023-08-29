@@ -734,7 +734,7 @@
   "eyes": [
     {
       "id": 1,
-      "image": "hhttps://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
       "title": "Lakmé 9to5 Black Impact Liner",
       "price": 355,
       "pricesrong": 375,
@@ -752,7 +752,7 @@
     {
       "id": 2,
       "image": "https://www.lakmeindia.com/cdn/shop/files/grey_700x.png?v=1686743654",
-      "title": "Lakmé Absolute Shine Line Eye Liner",
+      "title": "Lakmé  Shine Line Eye Liner",
       "price": 473,
       "pricesrong": 525,
       "description": "10% off",
@@ -786,7 +786,7 @@
     {
       "id": 4,
       "image": "https://www.lakmeindia.com/cdn/shop/products/29178_H-8901030867651_700x.png?v=1652954704",
-      "title": "Lakmé Absolute Explore Eye Pencil",
+      "title": "Lakmé  Explore Eye Pencil",
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
@@ -803,7 +803,7 @@
     {
       "id": 5,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme_Eyeconic_Liner_Pen_BLock_Tip_1ml_700x.png?v=1653472141",
-      "title": "Lakmé Eyeconic Liner Pen BLock Tip, 1 ml",
+      "title": "Lakmé Eyeconic Liner Pen BLock ",
       "price": 495,
       "pricesrong": 550,
       "description": "10% off",
@@ -837,7 +837,7 @@
     {
       "id": 7,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5NaturaleGelKajal-Black_700x.jpg?v=1597832632",
-      "title": "Lakmé 9to5 Naturale Gel Kajal - Black",
+      "title": "Lakmé  Naturale Gel Kajal - Black",
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
@@ -888,7 +888,7 @@
     {
       "id": 10,
       "image": "https://www.lakmeindia.com/cdn/shop/products/29112_H1-8901030849282_114c0672-6735-4a14-b44a-c695882b5314_700x.jpg?v=1651772438",
-      "title": "Lakmé Eyeconic Volume Mascara, 8.5ml",
+      "title": "Lakmé Eyeconic Volume Mascara",
       "price": 327,
       "pricesrong": 400,
       "description": "18% off",
@@ -922,7 +922,7 @@
     {
       "id": 12,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteFlutterSecretsDramaticEyesMascara_700x.png?v=1652946523",
-      "title": "Lakme Absolute Flutter Secrets Dramatic Ey...",
+      "title": "Lakme Secrets Dramatic Ey...",
       "price": 680,
       "pricesrong": 800,
       "description": "15% off",
@@ -952,6 +952,91 @@
         "count": "28 Verified Ratings"
       },
       "calcu": "30 Shades"
+    },
+    {
+      "id": 14,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24866_H-8901030816130_700x.jpg?v=1672744857",
+      "title": "Lakmé Eyeshadow Palette",
+      "price": 795,
+      "pricesrong": 995 ,
+      "description": "20% off",
+      "category": "Eye Shadow",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "95 Verified Ratings"
+      },
+      "calcu": "4 Shades"
+    },
+    {
+      "id": 15,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5EyeColorQuartetEyeShadow-DesertRose_700x.jpg?v=1598251064",
+      "title": "Eye shadow Palette...",
+      "price": 498,
+      "pricesrong": 995,
+      "description": "50% off",
+      "category": "Eye Shadow",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "12 Verified Ratings"
+      },
+      "calcu": "50 Shades"
+    },
+    {
+      "id": 16,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24502_H_81cf49de-f318-45c7-b7d3-70df7bcd5acd_700x.png?v=1653473870",
+      "title": "Lakmé Quartet Eye Shadow - ...",
+      "price": 630,
+      "pricesrong": 700,
+      "description": "10% off",
+      "category": "Eye Shadow",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "7 Verified Ratings"
+      },
+      "calcu": "10 Shades"
+    },
+    {
+      "id": 17,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24866_H-8901030816130_700x.jpg?v=1672744857",
+      "title": "Lakmé Liquid Eye Shadow Duos",
+      "price": 630,
+      "pricesrong": 700,
+      "description": "10% off",
+      "category": "Eye Shadow",
+      "rating": {
+        "rate": 4
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "28 Verified Ratings"
+      },
+      "calcu": "4 Shades"
+    },
+    {
+      "id": 18,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/black_6836099b-b4f7-4d20-9aa7-1593eb554b13_700x.jpg?v=1648652980",
+      "title": "EYESHADOW PALETTE",
+      "price": 795,
+      "pricesrong": 995,
+      "description": "20% off",
+      "category": "Eye Shadow",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "95 Verified Ratings"
+      },
+      "calcu": "4 Shades"
     }
   ],
   "skin": [
