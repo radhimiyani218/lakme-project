@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/image/signin.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#userdatas{
+    width: 400px;
+    background-color: #6a101e8b;
+    padding: 20px;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+.user{
+    position: relative;
+}
+#eye{
+    position: absolute;
+    top:35%;
+    right:18px;
+}
+.user i{
+    color: white;
+}
+#userdatas .form_header h2{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+}
+#userdatas input{
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.082);
+    backdrop-filter: blur(10px);
+    color: white;
+    font-size: 18px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
+    border: 2px solid rgb(91, 88, 88);
+
+}
+#userdatas input::placeholder{
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+#userdatas .form_footer p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    padding-top: 20px;
+    letter-spacing: 2px;
+
+}
+#userdatas .form_footer button{
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.082);
+    backdrop-filter: blur(10px);
+    color: white;
+    font-size: 18px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
+    border: 2px solid rgb(91, 88, 88);
+    letter-spacing: 2px;
+
+}
+#userdatas .form_footer a{
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+span{
+    color: white;
+    font-family: sans-serif;
+    padding: 0px 20px;
+    visibility: hidden;
+
+}
+.text_red{
+    color: red;
+    font-weight: 700;
+    visibility: visible;
+}
+.text_green{
+    color: green;
+    font-weight: 700;
+    visibility: visible;
+
+}
