@@ -7,6 +7,10 @@
     width: 1140px;
     margin: auto;
 }
+.container-box{
+    width: 500px;
+    margin: auto;
+}
 .row{
     display: flex;
     flex-wrap: wrap;

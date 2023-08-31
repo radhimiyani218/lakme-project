@@ -13,6 +13,228 @@
       "id": 2
     }
   ],
+  "detel": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
+      "title": "Lakmé 9to5 Black Impact Liner",
+      "price": 355,
+      "pricesrong": 375,
+      "description": "5% off",
+      "category": "EYELINER",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": "11 Shades"
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/grey_700x.png?v=1686743654",
+      "title": "Lakmé  Shine Line Eye Liner",
+      "price": 473,
+      "pricesrong": 525,
+      "description": "10% off",
+      "category": "EYELINER",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": "5 Shades"
+    }
+  ],
+  "top": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Cherry-Chic-removebg-preview_400x.png?v=1672836973",
+      "title": "Lakmé Primer + Matte Lip Color",
+      "price": 495,
+      "pricesrong": 550,
+      "description": "Save ₹55",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "69 Verified Ratings"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5CCComplexionCareCream_9gmBronze_600x.png?v=1653487942",
+      "title": "Lakmé Complexion Care Cream, 9gm",
+      "price": 99,
+      "pricesrong": 110,
+      "description": "Save ₹11",
+      "rating": {
+        "rate": 7.1
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24272_H2_8901030856419_600x.jpg?v=1640786676",
+      "title": "Lakmé Eyeconic Kajal Twin Pack",
+      "price": 360,
+      "pricesrong": 380,
+      "description": "Save ₹20",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Business_600x.jpg?v=1628509200",
+      "title": "Lakmé Primer + Gloss Nail Color",
+      "price": 144,
+      "pricesrong": 180,
+      "description": "Save ₹10",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
+      }
+    }
+  ],
+  "deals": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/9to5PrimerLipstickstrio_600x.jpg?v=1680784914",
+      "title": "Lakmé Lip Color",
+      "price": 789,
+      "pricesrong": 234,
+      "description": "Save ₹35",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "78 Verified Ratings"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/UnapologeticallyMatteLiquidLipSet_600x.jpg?v=1680784859",
+      "title": "Lakmé Complexion ",
+      "price": 677,
+      "pricesrong": 1234,
+      "description": "Save ₹11",
+      "rating": {
+        "rate": 7.1
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/MakeItMatte-rLiquidLipstickSet_48503358-4cc9-492f-b42a-d69b202843e8_600x.jpg?v=1680784381",
+      "title": "Lakmé Kajal Twin Pack",
+      "price": 567,
+      "pricesrong": 876,
+      "description": "Save ₹20",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/1_fd2fa609-4760-4196-822d-7d0dd556626e_400x.jpg?v=1684156853",
+      "title": "Lakmé Primer Nail Color",
+      "price": 1200,
+      "pricesrong": 5677,
+      "description": "Save ₹10",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
+      }
+    }
+  ],
+  "trand": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/29500_H-8901030953460_600x.jpg?v=1683792114",
+      "title": "Lakmé 9to5 Black Impact Liner",
+      "price": 355,
+      "pricesrong": 375,
+      "description": "Save ₹551",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/29634_H-8901030971433_600x.jpg?v=1686136653",
+      "title": "Lakmé Matte to Glass Liquid Lip",
+      "price": 585,
+      "pricesrong": 650,
+      "description": "Save ₹65",
+      "rating": {
+        "rate": 4.4
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "72 Verified Ratings"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/29565_H-8901030959899_600x.jpg?v=1686133119",
+      "title": "Lakmé Primer + Shine Lipstick",
+      "price": 495,
+      "pricesrong": 550,
+      "description": "Save ₹55",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "78 Verified Ratings"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/29582_H-8901030960376_600x.jpg?v=1687938211",
+      "title": "Lakmé Eyeconic Pro Brush Liner",
+      "price": 539,
+      "pricesrong": 599,
+      "description": "Save ₹57",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      }
+    }
+  ],
   "face": [
     {
       "id": 1,
@@ -219,7 +441,7 @@
       "calcu": "9 Shades"
     },
     {
-      "id": 12,
+      "id": 13,
       "image": "https://www.lakmeindia.com/cdn/shop/files/9To5PerfectBaseDuo_700x.jpg?v=1688541936",
       "title": "9to5 Perfect Base Duo",
       "price": 699,
@@ -236,7 +458,7 @@
       "calcu": "4 Shades"
     },
     {
-      "id": 13,
+      "id": 14,
       "image": "https://www.lakmeindia.com/cdn/shop/products/AceYourFace_700x.jpg?v=1681120559",
       "title": "All-Day Lasting Makeup Kit",
       "price": 1699,
@@ -253,7 +475,7 @@
       "calcu": "6 Shades"
     },
     {
-      "id": 14,
+      "id": 15,
       "image": "https://www.lakmeindia.com/cdn/shop/files/Conceal_Highlight_BlushTrio_700x.jpg?v=1688542817",
       "title": "Conceal, Highlight & Blush Trio",
       "price": 1199,
@@ -270,7 +492,7 @@
       "calcu": "4 Shades"
     },
     {
-      "id": 15,
+      "id": 16,
       "image": "https://www.lakmeindia.com/cdn/shop/products/TheShowstoppingFaceSet_700x.jpg?v=1681114369",
       "title": "Showstopping Face Set",
       "price": 1799,
@@ -287,7 +509,7 @@
       "calcu": "8 Shades"
     },
     {
-      "id": 16,
+      "id": 17,
       "image": "https://www.lakmeindia.com/cdn/shop/files/AceYourBase9to5FaceSet_700x.jpg?v=1690958491",
       "title": "Ace Your Base Set",
       "price": 1299,
@@ -304,7 +526,7 @@
       "calcu": "1 Shades"
     },
     {
-      "id": 17,
+      "id": 18,
       "image": "https://www.lakmeindia.com/cdn/shop/products/29094_H1-8901030846519_700x.jpg?v=1629701467",
       "title": "Lakmé Absolute Liquid Highlighter",
       "price": 630,
@@ -321,7 +543,7 @@
       "calcu": "3 Shades"
     },
     {
-      "id": 18,
+      "id": 19,
       "image": "https://www.lakmeindia.com/cdn/shop/files/DazzleAllDayFoundation_HighlighterSet_700x.jpg?v=1688543014",
       "title": "Dazzle All Day Foundation + Highlighter Set",
       "price": 999,
@@ -338,7 +560,7 @@
       "calcu": "1 Shades"
     },
     {
-      "id": 19,
+      "id": 20,
       "image": "https://www.lakmeindia.com/cdn/shop/products/29360_H-8901030911682_9b42ffcc-a8df-48ac-bb67-ad041f0160dd_700x.jpg?v=1668171123",
       "title": "Lakmé 9to5 Wet & Dry Compact, 9g",
       "price": 585,
@@ -355,7 +577,7 @@
       "calcu": "8 Shades"
     },
     {
-      "id": 20,
+      "id": 21,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteBlurPerfectPrimer_700x.png?v=1653488296",
       "title": "Lakmé 9to5 Flawless Matte Complexion Compact",
       "price": 495,
@@ -372,7 +594,7 @@
       "calcu": "3 Shades"
     },
     {
-      "id": 21,
+      "id": 22,
       "image": "https://www.lakmeindia.com/cdn/shop/products/22682_H-8901030366741_700x.jpg?v=1672749242",
       "title": "Lakmé  Absolute Wet & Dry Compact",
       "price": 745,
@@ -389,7 +611,7 @@
       "calcu": "6 Shades"
     },
     {
-      "id": 22,
+      "id": 23,
       "image": "https://www.lakmeindia.com/cdn/shop/products/29077_H1_8901030843082_700x.jpg?v=1628751439",
       "title": "Lakmé Face It Compact",
       "price": 180,
@@ -406,7 +628,7 @@
       "calcu": "8 Shades"
     },
     {
-      "id": 23,
+      "id": 24,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Ivory-Fair-01_700x.jpg?v=1603098818",
       "title": "Lakmé Perfect Radiance Compact",
       "price": 219,
@@ -423,7 +645,7 @@
       "calcu": "3 Shades"
     },
     {
-      "id": 24,
+      "id": 25,
       "image": "https://www.lakmeindia.com/cdn/shop/products/12956_S1-8901030669828_700x.jpg?v=1681991427",
       "title": "Lakmé Sun Expert Ultra Matte SPF 40 PA+++ ...",
       "price": 285,
@@ -958,7 +1180,7 @@
       "image": "https://www.lakmeindia.com/cdn/shop/products/24866_H-8901030816130_700x.jpg?v=1672744857",
       "title": "Lakmé Eyeshadow Palette",
       "price": 795,
-      "pricesrong": 995 ,
+      "pricesrong": 995,
       "description": "20% off",
       "category": "EYE SHADOW",
       "rating": {
