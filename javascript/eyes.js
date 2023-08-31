@@ -4,6 +4,7 @@ const display = (data) => {
     data.map((products) => {
         let img = document.createElement('img');
         img.src = products.image;
+        
         let title = document.createElement('p');
         title.innerHTML = products.title;
         title.setAttribute('class','title');
@@ -13,7 +14,7 @@ const display = (data) => {
 
 
         let price = document.createElement('p');
-        price.innerHTML = "$ " + products.price;
+        price.innerHTML = "₹ " + products.price;
         price.setAttribute('class','price');
 
         let pricesrong = document.createElement('del');
@@ -56,6 +57,41 @@ const display = (data) => {
 
         let div = document.createElement('div');
         div.setAttribute('class','main');
+        div.addEventListener("click", () => {
+
+            console.log(products.id)
+            let loggin = localStorage.getItem("loggin")
+            if (loggin) {
+                fetch(`http://localhost:3000/detel?id=${products.id}`)
+                    .then((res) => res.json())
+                    .then((data) => {
+                        if (data.length > 0) {
+                            alert("product was defaine")
+                            fetch(`http://localhost:3000/detel/${products.id}`, {
+                                method: "PATCH",
+                                headers: { "content-type": "application/json" },
+                                body: JSON.stringify(products),
+                            });
+                            console.log(data.length)
+                         
+                        }
+                        else {
+                            fetch("http://localhost:3000/detel", {
+                                method: "POST",
+                                headers: { "content-type": "application/json" },
+                                body: JSON.stringify(products),
+                            });
+                            
+                        }
+                    })
+            }
+            else {
+                alert("you have to loggin first")
+                setTimeout(() => {
+                    window.location.href = "/pages/login.html"
+                }, 1000)
+            }
+        })
 
 
         pricesbox.append(price, pricesrong, description);
