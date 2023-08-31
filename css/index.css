@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+:root{
+    --black:#000;
+    --white:#fff;
+    --dark-red:#901913;
+    --font-1:'sans-serif';
+}
+
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.justify-content-between{
+justify-content: space-between;
+}
+.justify-content{
+    justify-content: center;
+    }
+.align-items-center{
+    align-items: center;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+.w-24{
+    width: 24.6665%;
+}
+.w-25{
+    width: 25%;
+    padding: 0px 15px;;
+}
+.w-33{
+    width: 33.33%;
+    padding: 0px 15px;
+}
+.w-41{
+    width: 41.6666%;
+    padding: 0px 15px;
+}
+.w-50{
+    width: 50%;
+}
+
+.text-center{
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+.font-1{
+    font-family: var(--font-1);
+}
+.padding-100{
+    padding-top: 200px;
+}
+ul,
+ol{
+    list-style: none;
+}
+header{
+    padding: 20px;
+    background-color: var(--black);
+}
+
+/* header */
+
+#nav ul li a {
+    margin: auto 20px;
+    color: var(--white);
+    text-decoration: none;
+    font-family: var(--font-1);
+    text-transform: uppercase;
+}
+nav ul .a1{
+    background-color: var(--dark-red);
+}
+.icon{
+    color: var(--white);
+    padding: 0px 25px;
+}
+ .icones svg{
+    width:22px;
+     height:22px;
+ }
+ .iconsss{
+    padding: 0px 20px;
+ }
+
+/* footer */
+
+footer{
+    padding: 66px 0px 20px;
+    background-color: var(--black);
+}
+.f-1 img{
+    width: 138px;
+}
+.f-2{
+    max-width: 280px;
+}
+.f-2 p{
+    font-size: 16px;
+    font-family: var(--font-1),sans-serif;
+    color:var(--white);
+    line-height: 1.625em;
+    letter-spacing: -0.18px;
+    padding-top:25px;
+}
+.f-1 .years{
+    color: #99999980;
+    font-size: 16px;
+    font-family: var(--font-1),sans-serif;
+    padding-top:18px;
+}
+.f-3 h2{
+    color:var(--white);
+    font-size: 24px;
+    letter-spacing: -0.6px;
+    font-family: var(--font-1),sans-serif;
+    font-weight: 400;
+    /* padding-left:30px; */
+}
+.f-4{
+    padding-top:25px;
+    /* padding-left:30px; */
+}
+.f-4 li{
+    font-size: 16px;
+    color: var(--white);
+    font-family: var(--font-1),sans-serif;
+    padding-top:11px;
+    transition: all 0.5s;
+}
+.f-4  li:hover{
+    color: var(--white);
+    cursor: pointer;
+}
+.f-5{
+    padding-top:25px;
+    padding-left:85px;
+}
+.f-5 li{
+    font-size: 16px;
+    color: var(--white);
+    font-family: var(--font-1),sans-serif;
+    padding-top:11px;
+    transition: all 0.5s;
+}
+.f-5 li:hover{
+    color: var(--white);
+    cursor: pointer;
+}
+.f-6 h2{
+    color:var(--white);
+    font-size: 24px;
+    letter-spacing: -0.6px;
+    font-family: var(--font-1),sans-serif;
+    font-weight: 400;
+}
+.f-6 h6{
+    padding-top:33px;
+}
+.f-6 h6, p, .text-1{
+    font-size: 16px;
+    color: var(--white);
+    font-family: var(--font-1),sans-serif;
+    font-weight: 400; 
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.text-1:hover{
+    color: var(--white);
+}
+.f-6 p, span{
+    padding-top:10px;
+}
+.f-6 span{
+    padding-left:4px;
+}
+.f-7-icn{
+    padding-top:34px;
+    
+}
+.f-7-icn i{
+    height: 52px;
+    width: 52px;
+    background-color: var(--white);
+    border:1px solid #EEEEEE1A;
+    border-radius: 50%;
+    font-size: 21px;
+    color:#777777;
+    line-height:40px;
+    padding:5px 17px;
+    margin-left:9px;
+}
+.f-7-icn .fa-facebook-f{
+    transition: all 0.5s;
+}
+.f-7-icn .fa-facebook-f:hover{
+    border-color: #3B5999;
+    background-color: #3B5999;
+    color:var(--white);
+}
+.f-7-icn .fa-twitter{
+    transition: all 0.5s;
+}
+.f-7-icn .fa-twitter:hover{
+    border-color: #00adef;
+    background-color: #00adef;
+    color:var(--white);
+}
+.f-7-icn .fa-linkedin-in{
+    transition: all 0.5s;
+}
+.f-7-icn .fa-linkedin-in:hover{
+    border-color: #0073b2;
+    background-color: #0073b2;
+    color:var(--white);
+}
+.f-8{
+    margin-top:60px;
+    border-top: 1px solid #343434;
+}
+.f-8 p{
+    font-size: 16px;
+    font-family: var(--font-1),sans-serif;
+    color: #999999B3;
+    padding:28px 0 15px 0;
+}
