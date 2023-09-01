@@ -147,16 +147,16 @@ document.getElementById("value").addEventListener("keypress", (e) => {
 
 // filter products by categorly
 
-const handelcategory =(cat) =>{
+const handelcategory = (cat) => {
     document.getElementById("eye").innerHTML = ""
-    let data = products.filter((value)=>value.category==cat);
+    let data = products.filter((value) => value.category == cat);
     display(data);
 }
 
-document.getElementById("EYELINER").addEventListener("click",()=>handelcategory("EYELINER"));
-document.getElementById("KAJAL").addEventListener("click",()=>handelcategory("KAJAL"));
-document.getElementById("MASCARA").addEventListener("click",()=>handelcategory("MASCARA"));
-document.getElementById("SHADOW").addEventListener("click",()=>handelcategory("SHADOW"));
+document.getElementById("EYELINER").addEventListener("click", () => handelcategory("EYELINER"));
+document.getElementById("KAJAL").addEventListener("click", () => handelcategory("KAJAL"));
+document.getElementById("MASCARA").addEventListener("click", () => handelcategory("MASCARA"));
+document.getElementById("SHADOW").addEventListener("click", () => handelcategory("SHADOW"));
 
 
 
@@ -179,19 +179,6 @@ document.getElementById("close").addEventListener("click", () => {
     let down = document.querySelector('.down');
     down.classList.remove('active');
 })
-
-
-// slidbar
-document.getElementById("cart").addEventListener("click", () => {
-    let sidebar = document.querySelector('.sidebar');
-    let closeicons = document.querySelector('.colsesss');
-    sidebar.classList.add('active');
-    closeicons.addEventListener('click', () => {
-        sidebar.classList.remove('active');
-    })
-})
-
-// search
 
 
 import footer from '../componets/footer.js';

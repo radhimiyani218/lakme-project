@@ -1,33 +1,33 @@
-const login =(e) =>{
+const login = (e) => {
     e.preventDefault();
     let email = document.getElementById('email').value;
-    let password =document.getElementById('password').value;
-    console.log(email , password)
+    let password = document.getElementById('password').value;
+    console.log(email, password)
 
     fetch(`http://localhost:3000/user?email=${email}`)
-    .then((res)=>res.json())
-    .then((data)=>{
-        if(data.length > 0){
-            if(data[0].password === password){
-                alert("login succesful")[
-                    setTimeout(()=>{
-                        window.location.href="/pages/home.html"
-                    },3000)
-                ]
+        .then((res) => res.json())
+        .then((data) => {
+            if (data.length > 0) {
+                if (data[0].password === password) {
+                    alert("login succesful")[
+                        setTimeout(() => {
+                            window.location.href = "/pages/home.html"
+                        }, 3000)
+                    ]
+                }
+                else {
+                    alert("invaild login")
+                }
             }
-            else{
-                alert("invaild login")
+            else {
+                alert("user not found")
+                setTimeout(() => {
+                    window.location.href = "/pages/signin.html"
+                }, 3000)
             }
-        }
-        else{
-            alert("user not found")
-            setTimeout(()=>{
-                window.location.href="/pages/signin.html"
-            },3000)
-        }
-    })
+        })
 }
-document.getElementById("userdatas").addEventListener("submit",login)
+document.getElementById("userdatas").addEventListener("submit", login)
 
 
 

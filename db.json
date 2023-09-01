@@ -11,58 +11,21 @@
       "email": "radhimiyani218@gmail.com",
       "password": "dgfdSDF3543@@",
       "id": 2
-    }
-  ],
-  "cart": [
-    {
-      "id": 2,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/UnapologeticallyMatteLiquidLipSet_600x.jpg?v=1680784859",
-      "title": "Lakmé Complexion ",
-      "price": 677,
-      "pricesrong": 1234,
-      "description": "Save ₹11",
-      "rating": {
-        "rate": 7.1
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "8 Verified Ratings"
-      },
-      "Qty": 3
     },
     {
-      "id": 4,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Business_600x.jpg?v=1628509200",
-      "title": "Lakmé Primer + Gloss Nail Color",
-      "price": 144,
-      "pricesrong": 180,
-      "description": "Save ₹10",
-      "rating": {
-        "rate": 4.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "20 Verified Ratings"
-      },
-      "Qty": 1
+      "name": "nency",
+      "email": "rpkotadiya1917@gmail.com",
+      "password": "FVGGVfdgfd34543@@",
+      "id": 3
     },
     {
-      "id": 1,
-      "image": "https://www.lakmeindia.com/cdn/shop/files/29500_H-8901030953460_600x.jpg?v=1683792114",
-      "title": "Lakmé 9to5 Black Impact Liner",
-      "price": 355,
-      "pricesrong": 375,
-      "description": "Save ₹551",
-      "rating": {
-        "rate": 4.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "2 Verified Ratings"
-      },
-      "Qty": 1
+      "name": "poonam",
+      "email": "kotadiyapoonam@gmail.com",
+      "password": "vfdSDFSD343@@",
+      "id": 4
     }
   ],
+  "cart": [],
   "detel": [],
   "top": [
     {

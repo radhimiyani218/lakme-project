@@ -12,7 +12,7 @@ const userdatas = (e) => {
     var regexpassword = /^(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}$/;
     // name
     if (!(regexname.test(user.name))) {
-      document.getElementById("n_err").innerHTML = "** enter the not valid name"
+        document.getElementById("n_err").innerHTML = "** enter the not valid name"
         document.getElementById("n_err").classList.add("text_red")
     }
     else {
@@ -22,7 +22,7 @@ const userdatas = (e) => {
     }
     // email
     if (!(regexemail.test(user.email))) {
-         document.getElementById("e_err").innerHTML = "** enter the not valid email"
+        document.getElementById("e_err").innerHTML = "** enter the not valid email"
         document.getElementById("e_err").classList.add("text_red")
     }
     else {
@@ -32,7 +32,7 @@ const userdatas = (e) => {
     }
     // password
     if (!(regexpassword.test(user.password))) {
-         document.getElementById("p_err").innerHTML = "** enter the not valid password"
+        document.getElementById("p_err").innerHTML = "** enter the not valid password"
         document.getElementById("p_err").classList.add("text_red")
     }
     else {
@@ -49,14 +49,14 @@ const userdatas = (e) => {
                     alert("user existis")
                     setTimeout(() => {
                         window.location.href = "/pages/login.html"
-                    },3000)
+                    }, 3000)
                 }
                 else {
-                    localStorage.setItem("loggin",true)
-                    fetch ("http://localhost:3000/user",{
-                        method:"POST",
-                        headers:{"content-type":"application/json"},
-                        body:JSON.stringify(user),
+                    localStorage.setItem("loggin", true)
+                    fetch("http://localhost:3000/user", {
+                        method: "POST",
+                        headers: { "content-type": "application/json" },
+                        body: JSON.stringify(user),
                     });
                 }
             });

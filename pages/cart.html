@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CART PAGE</title>
+    <style>
+        @import url(/css/all.min.css);
+        @import url(/css/cart.css);
+      </style>
+</head>
+<body>
+    <!-- header -->
+       <div id="navbar"></div> 
+       <!-- slidbar -->
+    <div class="sidebar">
+        <div class="head ">
+            <p >MY CART</p>
+        </div>
+        <div id="cartItem">
+            <table border="1px" cellspacing="30px" cellpadding="5px">
+                <thead>
+                    <tr>
+                        <th>image</th>
+                        <th>product name</th>
+                        <th>price</th>
+                        <th>quantity</th>
+                        <th>total</th>
+                        <th>delet</th>
+                    </tr>
+                </thead>
+                <tbody id="product"></tbody>
+            </table>
+        </div>
+        <div class="foot">
+            <h3>Total</h3>
+            <div id="total"> 0.00</div>
+        </div>
+        <button class="btn">
+            <a href="#">ORDER SUBMITTED</a>
+        </button>
+    </div>
+    <!-- footer -->
+    <div id="footer"></div>
+
+
+</body>
+<script type="module" src="/javascript/cart.js"></script>
+</html>
