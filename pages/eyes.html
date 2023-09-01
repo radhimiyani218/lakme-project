@@ -9,24 +9,31 @@
     <link rel="stylesheet" href="/css/eye.css">
 </head>
 
-
 <body>
     <!-- header -->
-    <header>
-        <input type="text" id="value" placeholder="enter the name">
-    </header>
+    <div id="navbar"></div> 
     <!-- main  -->
     <div class="eyes">
         <h1>EYES</h1>
         <div class="eyes_box">
-
-            <div class="w-10">
-
-                <div class="box2">
+            <div class="row justify-content-between">
+                <div class="box2 box1">
+                    <ul>
+                        <li id="filter">Filter<i class="fa-solid fa-chevron-down"></i></li>
+                        <ol class=" down">
+                            <i class="fa-solid fa-xmark" id="close"></i>
+                            <li id="EYELINER">EYELINER </li>
+                            <li id="KAJAL">KAJAL</li>
+                            <li id="MASCARA">MASCARA</li>
+                            <li id="SHADOW">SHADOW</li>
+                        </ol>
+                    </ul>
+                </div>
+                <div class="box2 ">
                     <ul>
                         <li id="sort">Sort<i class="fa-solid fa-chevron-down"></i></li>
                         <ol class="dropdown">
-                            <i class="fa-solid fa-xmark" id="close"></i>
+                            <i class="fa-solid fa-xmark" id="closed"></i>
                             <li id="lth">low to high </li>
                             <li id="htl"> high to low</li>
                         </ol>
@@ -35,7 +42,42 @@
             </div>
         </div>
         <div id="eye"></div>
+        <!-- sidebar -->
+        <div class="sidebar">
+            <div class="head row justifly-content">
+                <p>MY CART</p>
+                <i class="fa-solid fa-xmark colsesss"></i>
+            </div>
+            <div class="cart">5-in-1 Gift Kit Added to Cart!</div>
+            <div class="white">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>iamge</th>
+                            <th>title</th>
+                            <th>price</th>
+                            <th>qty</th>
+                            <th>total</th>
+                            <th><i class="fa-solid fa-trash-can delete"></i></th>
+                        </tr>
+                    </thead>
+                    <tbody id="cartItem"></tbody>
+                </table>
+            </div>
+            <div class="foot">
+                <h3>Total</h3>
+                <div id="total">₹ 0.00</div>
+            </div>
+            <button class="btn">
+                <a href="ordersubmit.html">CHECK OUT</a>
+            </button>
+        </div>
     </div>
+    <!-- footer -->
+    <div id="footer"></div>
+
 </body>
 <script type="module" src="/javascript/eyes.js"></script>
+<script type="module" src="/javascript/slidbar.js"></script>
+
 </html>
