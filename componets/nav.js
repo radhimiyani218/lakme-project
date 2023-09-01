@@ -4,7 +4,7 @@ const navbar =()=>{
         <div class="row justify-content-between align-items-center">
             <div class="logo">
                 <a href="#">
-                    <img src="/image/logo_155x_cca6b9a2-970e-4c38-a903-e6dc821dbfa5_155x.png" alt="">
+                <img src="/image/logo.png" alt="">
                 </a>
             </div>
             <nav id="nav">
@@ -24,14 +24,23 @@ const navbar =()=>{
                       </svg>
                     <div class="icon">
                         <i class="fa-solid fa-magnifying-glass"></i>
-                        <i class="fa-solid fa-bag-shopping iconsss"></i>
+                        <i class="fa-solid fa-bag-shopping iconsss" id="cart"></i>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</header>`
+</header>
+<div class="header">
+       <div class="containers">
+        <div class="search">
+            <input type="text" placeholder="Search Nency.in" id="value">
+        </div>
+       </div>
+    </div>`
 }
+
+
 
 
 export default navbar
