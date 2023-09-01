@@ -4,14 +4,23 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
 :root{
     --black:#000;
     --white:#fff;
     --dark-red:#901913;
+    --font-1:'sans-serif';
 }
-.padding{
-    padding: 20px 0px;
+.container{
+    width: 1140px;
+    margin: auto;
 }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
 .justify-content-between{
     justify-content: space-between;
     }
@@ -51,30 +60,43 @@
         width: 100%;
     }
     
-.container{
-    width: 1140px;
-    margin: auto;
-}
-.row{
-    display: flex;
-    flex-wrap: wrap;
-}
+    .container {
+        max-width: 1140px;
+        margin: auto;
+    }
+    .font-1{
+        font-family: var(--font-1);
+    }
+    .padding-100{
+        padding-top: 100px;
+        
+    }
+    ul,
+    ol{
+        list-style: none;
+    }
+   
+    
 .image-box img{
-    width: 70px;
+    width: 80px;
     border-radius: 100%;
 }
 .image-box{
-    margin: auto;
+    margin: 12px 20px;
+    display: flex;
 }
 .imagess{
-    width: 500px;
-    margin: auto;
+    padding-left: 200px;
 }
-.image-box h4{
-    font-size: 16px;
-    font-weight: 700;
-    color: black;
-    padding-top: 10px;
+.padding-30{
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.padding{
+    padding-top: 50px;
+}
+.padding-20{
+    padding-bottom: 20px;
 }
 /* banner section */
 .banner-bg{
@@ -84,10 +106,10 @@
     background-size: contain;
 }
 /* TRENDING NOW section us css */
- .title p{
+.title p{
     text-align: center;
     font-size: 12px;
-    padding: 20px 0px;
+
     letter-spacing: 1px;
 }
 .title h2{
@@ -160,7 +182,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap:40px;
-    margin-top: 30px;
+    margin-top: 40px;
     text-align: center;
 }
 #trending .main{
@@ -174,7 +196,7 @@
 .title{
     color: black;
     font-weight: 700;
-} 
+}
 
 /* extra */
 
@@ -236,6 +258,7 @@
     color: white;
     border: none;
     font-family: sans-serif;
+    border-radius: 30px;
 }
 /* DEALS YOU CAN'T MISS */
 .title h3{
@@ -279,6 +302,10 @@
 #deals img{
     width: 200px;
 }
+.paddingss{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
 
 
 
@@ -310,33 +337,12 @@ nav ul .a1{
  .iconsss{
     padding: 0px 20px;
  }
-/* 2 header */
-.header{
-    padding: 10px 0px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.346);
-}
-.containers{
-    width: 600px;
-    margin: auto;
-}
-.header .search #value{
-    width: 600px;
-    padding: 10px 10px;
-    box-shadow: 0px 0px 15px #3d3d3d55;
-    border: none;
-    outline: none;
-    border-radius: 5px 0px 0px 5px;
 
-}
-.header .search input::placeholder{
-    font-size: 16px;
-}
 /* footer */
 
 footer{
     padding: 66px 0px 20px;
     background-color: var(--black);
-    margin-top: 50px;
 }
 .f-1 img{
     width: 138px;
@@ -474,174 +480,3 @@ footer{
     padding:28px 0 10px 0;
 }
 
-/* slidbar */
-
-/* sidebar */
-.sidebar{
-    position: fixed;
-    top:0;
-    right:0;
-    width: 40%;
-    height:100vh;
-    margin-left: 20px;
-    background-color: white;
-    text-align: center;
-    transition: all 0.5s;
-    overflow-y: scroll;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.384);
-    transform: translateX(calc(100% + 20px));
-}
-.sidebar.active{
-    transform: translateX(0);
-
-}
-.sidebar .colse{
-    font-weight: 600;
-    font-size: 20px;
-}
-.head{
-    background-color: black;
-    padding: 10px;
-    padding: 30px 30px;
-    margin-bottom: 8px;
-    color: white;
-    display: flex;
-    align-items: center;
-}
-.head p{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
-    font-weight: 600;
-}
-.cart{
-    background-color: #901913;
-    padding: 15px 0px;
-    margin-bottom: 10px;
-    color: white;
-}
-.foot{
-    display: flex;
-    justify-content: space-between;
-    margin: 20px 0px;
-    padding: 10px 0px;
-    border-top: 1px solid black;
-}
-.foot h3{
-    color: #fff;
-}
-#total{
-    color: #901913;
-    font-weight: 700;
-}
-.cart-item{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px;
-    background-color: white;
-    border-radius: 8px;
-    margin: 10px 10px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.040);
-}
-.row-img{
-    width: 50px;
-    height: 50px;
-    border-radius: 50px;
-    border: 1px solid #3d3d3d;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-}
-.justifly-content{
-    justify-content: space-between;
-}
-.sidebar .btn{
-    padding: 15px 20px;
-    background-color: #901913;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    border: none;
-}
-.sidebar .btn a{
-    color:white;
-}
-
-/* slidbar */
-table{
-    margin: auto;
-    width: 100%;
-    margin-top: 20PX;
-}
-table tr td{
-    text-align: center;
-    font-size: 16px;
-    border: 1px solid black;
-    color:black;
-}
-table tr th{
-    text-align: center;
-    padding: 10px 0px;
-    border: 1px solid black;
-    color:black;
-    text-transform: uppercase;
-    font-weight: 700;
-
-}
-.white{
-    color: white;
-}
-table tr td img{
-    width: 100px;
-}
-
- .boxes .num{
-    border-left:1px solid black;
-    border-right:1px solid black;
-    padding: 0px 10px;
-}
-.boxes .minus{
-    padding-right:8px;
-}
-.boxes .plus{
-    padding-left: 8px;
-}
-table tr td span{
-    font-size: 20px;
-    cursor:pointer
-}
-.imagdiv img{
-    width: 100px;
-}
-.imagdiv title{
-    padding: 10px;
-}
-.buttons{
-    position: relative;
-}
-.buttons i{
-    color: red;
-}
-button{
-    background-color: white;
-    width: 20px;
-    border:1px solid black;
-
-
-}
-.number{
-    width: 20px;
-    color: white;
-
-}
-.foot h3{
-    color:black;
-}
-.foot{
-    padding: 0px 20px;
-
-}
-a{
-    text-decoration: none;
-}
