@@ -7,21 +7,52 @@
       "id": 1
     },
     {
-      "name": "POONAM",
-      "email": "poonam@gmail.com",
+      "name": "RADHI",
+      "email": "radhimiyani218@gmail.com",
       "password": "dgfdSDF3543@@",
       "id": 2
     }
   ],
-  "detel": [
+  "cart": [
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/UnapologeticallyMatteLiquidLipSet_600x.jpg?v=1680784859",
+      "title": "Lakmé Complexion ",
+      "price": 677,
+      "pricesrong": 1234,
+      "description": "Save ₹11",
+      "rating": {
+        "rate": 7.1
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "Qty": 3
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Business_600x.jpg?v=1628509200",
+      "title": "Lakmé Primer + Gloss Nail Color",
+      "price": 144,
+      "pricesrong": 180,
+      "description": "Save ₹10",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
+      },
+      "Qty": 1
+    },
     {
       "id": 1,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
+      "image": "https://www.lakmeindia.com/cdn/shop/files/29500_H-8901030953460_600x.jpg?v=1683792114",
       "title": "Lakmé 9to5 Black Impact Liner",
       "price": 355,
       "pricesrong": 375,
-      "description": "5% off",
-      "category": "EYELINER",
+      "description": "Save ₹551",
       "rating": {
         "rate": 4.9
       },
@@ -29,26 +60,10 @@
         "img": "/image/1.PNG",
         "count": "2 Verified Ratings"
       },
-      "calcu": "11 Shades"
-    },
-    {
-      "id": 2,
-      "image": "https://www.lakmeindia.com/cdn/shop/files/grey_700x.png?v=1686743654",
-      "title": "Lakmé  Shine Line Eye Liner",
-      "price": 473,
-      "pricesrong": 525,
-      "description": "10% off",
-      "category": "EYELINER",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "2 Verified Ratings"
-      },
-      "calcu": "5 Shades"
+      "Qty": 1
     }
   ],
+  "detel": [],
   "top": [
     {
       "id": 1,
@@ -145,7 +160,7 @@
     {
       "id": 3,
       "image": "https://www.lakmeindia.com/cdn/shop/products/MakeItMatte-rLiquidLipstickSet_48503358-4cc9-492f-b42a-d69b202843e8_600x.jpg?v=1680784381",
-      "title": "Lakmé Kajal Twin Pack",
+      "title": "Lakmé Kajal Twin ",
       "price": 567,
       "pricesrong": 876,
       "description": "Save ₹20",
@@ -160,7 +175,7 @@
     {
       "id": 4,
       "image": "https://www.lakmeindia.com/cdn/shop/files/1_fd2fa609-4760-4196-822d-7d0dd556626e_400x.jpg?v=1684156853",
-      "title": "Lakmé Primer Nail Color",
+      "title": "Lakmé  Nail Color",
       "price": 1200,
       "pricesrong": 5677,
       "description": "Save ₹10",
@@ -1182,7 +1197,7 @@
       "price": 795,
       "pricesrong": 995,
       "description": "20% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4.9
       },
@@ -1199,7 +1214,7 @@
       "price": 498,
       "pricesrong": 995,
       "description": "50% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4.8
       },
@@ -1216,7 +1231,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 5
       },
@@ -1233,7 +1248,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4
       },
@@ -1250,7 +1265,7 @@
       "price": 795,
       "pricesrong": 995,
       "description": "20% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4.9
       },
@@ -1280,5 +1295,40 @@
       "calcu": "8 Shades"
     }
   ],
-  "nails": []
+  "nails": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_700x.jpg?v=1675856497",
+      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
+      "price": 539,
+      "pricesrong": 599,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "8 Shades"
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_700x.jpg?v=1675856497",
+      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
+      "price": 539,
+      "pricesrong": 599,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "8 Shades"
+    }
+  ]
 }

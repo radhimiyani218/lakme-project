@@ -14,8 +14,9 @@ body{
 #userdatas{
     width: 400px;
     background-color: #6a101e8b;
+    background-repeat: no-repeat;
     padding: 20px;
-    margin-top: 70px;
+    margin-top: 85px;
     border-radius: 30px;
 }
 .user{
@@ -41,13 +42,14 @@ body{
     padding: 10px 20px;
     margin-top: 15px;
     margin-bottom: 5px;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.082);
     backdrop-filter: blur(10px);
     color: white;
     font-size: 18px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
-    border: 2px solid rgb(91, 88, 88);
+    border: none;
+    outline: none;
 
 }
 #userdatas input::placeholder{
@@ -68,14 +70,15 @@ body{
     width: 100%;
     padding: 10px 20px;
     margin-top: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.082);
     backdrop-filter: blur(10px);
     color: white;
     font-size: 18px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
-    border: 2px solid rgb(91, 88, 88);
     letter-spacing: 2px;
+    border:none;
+    outline: none;
 
 }
 #userdatas .form_footer a{
