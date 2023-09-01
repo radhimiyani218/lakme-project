@@ -1,10 +1,9 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-body {
+body{
     background-image: url(/image/signin.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,59 +11,53 @@ body {
     justify-content: center;
     align-items: center;
 }
-
-#userdatas {
+#userdatas{
     width: 400px;
     background-color: #6a101e8b;
+    background-repeat: no-repeat;
     padding: 20px;
-    margin-top: 70px;
+    margin-top: 85px;
     border-radius: 30px;
 }
-
-.user {
+.user{
     position: relative;
 }
-
-#eye {
+#eye{
     position: absolute;
-    top: 35%;
-    right: 18px;
+    top:35%;
+    right:18px;
 }
-
-.user i {
+.user i{
     color: white;
 }
-
-#userdatas .form_header h2 {
+#userdatas .form_header h2{
     text-align: center;
     color: white;
     font-family: sans-serif;
     padding-bottom: 20px;
     letter-spacing: 2px;
 }
-
-#userdatas input {
+#userdatas input{
     width: 100%;
     padding: 10px 20px;
     margin-top: 15px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
     margin-bottom: 5px;
-    background-color: rgba(255, 255, 255, 0.103);
     border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.082);
     backdrop-filter: blur(10px);
-    color: rgb(255, 255, 255);
+    color: white;
     font-size: 18px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
     border: none;
     outline: none;
-}
 
-#userdatas input::placeholder {
+}
+#userdatas input::placeholder{
     color: white;
     font-size: 18px;
     letter-spacing: 2px;
 }
-
-#userdatas .form_footer p {
+#userdatas .form_footer p{
     text-align: center;
     font-family: sans-serif;
     font-size: 18px;
@@ -73,46 +66,40 @@ body {
     letter-spacing: 2px;
 
 }
-
-#userdatas .form_footer button {
+#userdatas .form_footer button{
     width: 100%;
     padding: 10px 20px;
     margin-top: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.082);
     backdrop-filter: blur(10px);
     color: white;
     font-size: 18px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.87);
-    border: none;
-    outline: none;
     letter-spacing: 2px;
+    border:none;
+    outline: none;
 
 }
-
-#userdatas .form_footer a {
-    color: white;
+#userdatas .form_footer a{
+    color:white;
 }
-
-a {
+a{
     text-decoration: none;
 }
-
-span {
+span{
     color: white;
     font-family: sans-serif;
     padding: 0px 20px;
     visibility: hidden;
 
 }
-
-.text_red {
+.text_red{
     color: red;
     font-weight: 700;
     visibility: visible;
 }
-
-.text_green {
+.text_green{
     color: green;
     font-weight: 700;
     visibility: visible;
