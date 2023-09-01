@@ -749,7 +749,7 @@
     {
       "id": 5,
       "image": "https://www.lakmeindia.com/cdn/shop/products/precision_700x.png?v=1652874564",
-      "title": "Lakmé Absolute Precision Lip Paint",
+      "title": "Lakmé Absolute Precision Lip",
       "price": 615,
       "pricesrong": 700,
       "description": "10% off",
@@ -800,7 +800,7 @@
     {
       "id": 8,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePlump_ShineLipGlossBeigeShine_700x.jpg?v=1598357336",
-      "title": "Lakmé Absolute Plump & Shine Lip Gloss",
+      "title": "Lakmé Absolute Plump & Shine Lip",
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
@@ -817,7 +817,7 @@
     {
       "id": 9,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Pink-Plush_700x.jpg?v=1653539432",
-      "title": "Lakmé 9to5 Weightless Mousse Lip and Cheek...",
+      "title": "Lakmé 9to5 Weightless Mousse Lip ",
       "price": 574,
       "pricesrong": 675,
       "description": "15% off",
@@ -867,7 +867,7 @@
     },
     {
       "id": 12,
-      "image": "hhttps://www.lakmeindia.com/cdn/shop/products/AbsoluteMatteMeltLiquidLipDuo_700x.jpg?v=1682494945",
+      "image": "https://www.lakmeindia.com/cdn/shop/products/AbsoluteMatteMeltLiquidLipDuo_700x.jpg?v=1682494945",
       "title": "Absolute Matte Melt Liquid Lip Duo",
       "price": 1099,
       "pricesrong": 1600,
@@ -902,7 +902,7 @@
     {
       "id": 14,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Mint_700x.jpg?v=1603466665",
-      "title": "Lakmé  Lip Love Gelato Collection, 4.5g",
+      "title": "Lakmé  Lip Love Gelato Collection",
       "price": 159,
       "pricesrong": 199,
       "description": "31% off",
@@ -919,7 +919,7 @@
     {
       "id": 15,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePlump_ShineLipGlossBeigeShine_700x.jpg?v=1598357336",
-      "title": "Lakmé Absolute Plump & Shine Lip Gloss",
+      "title": "Lakmé Absolute Plump & Shine Lip",
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
@@ -1295,6 +1295,7 @@
       "calcu": "8 Shades"
     }
   ],
+
   "nails": [
     {
       "id": 1,
@@ -1332,3 +1333,7 @@
     }
   ]
 }
+
+  "nails": []
+}
+
