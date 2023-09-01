@@ -289,15 +289,3 @@ fetch("http://localhost:3000/deals")
 import footer from '../componets/footer.js';
 
 document.getElementById('footer').innerHTML = footer()
-
-
-// cart page
-// slidbar
-document.getElementById("cart").addEventListener("click", () => {
-    let sidebar = document.querySelector('.sidebar');
-    let closeicons = document.querySelector('.colsesss');
-    sidebar.classList.add('active');
-    closeicons.addEventListener('click', () => {
-        sidebar.classList.remove('active');
-    })
-})
