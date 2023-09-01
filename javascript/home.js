@@ -1,3 +1,11 @@
+import Navbar from '../componets/nav.js';
+
+document.getElementById('navbar').innerHTML = Navbar()
+
+
+
+
+
 // trending
 const display = (data) => {
     data.map((products) => {
@@ -191,4 +199,6 @@ fetch("http://localhost:3000/deals")
 
 
 
+        import footer from '../componets/footer.js';
 
+        document.getElementById('footer').innerHTML = footer()
