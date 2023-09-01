@@ -4,58 +4,46 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-
 :root {
     --black: #000;
     --white: #fff;
     --dark-red: #901913;
 }
-
 .justify-content-between {
     justify-content: space-between;
 }
-
 .justify-content {
     justify-content: center;
 }
-
 .align-items-center {
     align-items: center;
 }
-
 a {
     display: inline-block;
     text-decoration: none;
 }
-
 .w-24 {
     width: 24.6665%;
 }
-
 .w-25 {
     width: 25%;
     padding: 0px 15px;
-    ;
+    
 }
-
 .w-33 {
     width: 33.33%;
     padding: 0px 15px;
 }
-
 .w-41 {
     width: 41.6666%;
     padding: 0px 15px;
 }
-
 .w-50 {
     width: 50%;
 }
-
 .text-center {
     text-align: center;
 }
-
 img {
     width: 100%;
 }
@@ -70,225 +58,140 @@ img {
     flex-wrap: wrap;
 }
 
-ul,
-ol {
-    list-style: none;
-}
-
-#eye {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
-
-.main {
-    padding: 40px;
-    text-align: center;
-}
-
-.pricesbox {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 18px;
-    margin-bottom: 15px;
-}
-
-.description {
-    font-family: sans-serif;
-    font-size: 14px;
-}
-
-.price {
-    color: #991f53;
-    font-family: sans-serif;
-    font-size: 14px;
-}
-
-.pricesrong {
-    padding: 0px 30px;
-    font-family: sans-serif;
-    font-size: 14px;
-}
-
-.price {
-    padding-top: 10px;
-}
-
-.pricesrong {
-    padding-top: 10px;
-}
-
-#eye img {
-    width: 200px;
-
-}
-
-.title {
-    font-size: 14px;
-    font-family: sans-serif;
-    color: black;
-    letter-spacing: 2px;
-    font-weight: 400;
-    padding-top: 20px;
-    text-transform: uppercase;
-}
-
-.box {
-    padding-top: 14px;
-    margin-bottom: 14px;
-}
-
-.category {
-    font-weight: 400;
-    font-family: sans-serif;
-    color: #991f53;
-    font-size: 14px;
-}
-
-.rating {
-    font-family: sans-serif;
-    padding-right: 10px;
-    border-right: 1px solid black;
-    font-size: 14px;
-
-}
-
-.ratings {
-    margin-left: 10px;
-}
-
-.ratingsss {
-    padding-left: 5px;
-    font-family: sans-serif;
-    font-size: 14px;
-    letter-spacing: 1px;
-}
-
-.calcu {
-    font-family: sans-serif;
-    font-size: 12px;
-}
-
-.btn {
-    width: 100%;
-    margin-top: 20px;
-    padding: 14px 0px;
-    background-color: black;
-    color: white;
-    border: none;
-    font-family: sans-serif;
-}
-
-.eyes_box {
-    width: 100%;
-    height: 50px;
-    border: 1px solid rgba(0, 0, 0, 0.432);
-}
-
-.eyes h1 {
-    text-align: center;
-    font-family: sans-serif;
-    font-weight: 400;
-    font-size: 25px;
-    letter-spacing: 2px;
-    color: rgba(0, 0, 0, 0.928);
-    padding: 15px 0px;
-}
-
-.box2,
-.box1 {
-    width: 10%;
-    height: 50px;
-    border-left: 1px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-
-}
-
-.box1 {
-    border-right: 1px solid black;
-
-}
-
-.box2 ul li {
-    font-family: sans-serif;
-    font-size: 14px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-}
-
-.box2 ul li i {
-    font-size: 12px;
-    padding-left: 5px;
-}
-
-.dropdown {
-    position: absolute;
-    width: 200px;
+.sidebar {
+    top: 0;
     right: 0;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.291);
-    background-color: black;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
     text-align: center;
-    padding: 20px;
-    border-radius: 10px;
-    margin-top: 100px;
-    opacity: 0;
-    visibility: hidden;
-    color: white;
     transition: all 0.5s;
+
 }
 
-.dropdown li {
-    padding-top: 10px;
-    cursor: pointer;
+.head {
+    background-color: #901913;
+    padding: 20px 30px;
+    margin-bottom: 8px;
+    color: white;
+
 }
 
-.dropdown.active {
-    margin-top: 17px;
-    opacity: 1;
-    visibility: visible;
+.imagdiv img {
+    width: 100px;
 }
 
-.dropdown i {
-    position: absolute;
-    top: 10px;
-    right: 10px;
+.head p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
 }
 
-/* down */
-.down {
-    position: absolute;
-    width: 200px;
+.foot {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+    padding: 10px 40px;
+    border-top: 1px solid black;
+}
+
+.foot h3 {
+    color: black;
+    font-size: 20px;
+}
+
+.justifly-content {
+    justify-content: space-between;
+}
+
+.sidebar .btn {
+    padding: 15px 20px;
+    background-color: #901913;
+    bottom: 0;
     left: 0;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.291);
-    background-color: black;
-    text-align: center;
-    padding: 20px;
-    border-radius: 10px;
-    margin-top: 100px;
-    opacity: 0;
-    visibility: hidden;
+    right: 0;
+    border: none;
+}
+
+.sidebar .btn a {
     color: white;
-    transition: all 0.5s;
 }
 
-.down li {
-    padding-top: 10px;
-    cursor: pointer;
+#total {
+    color: #901913;
+    font-weight: 700;
 }
 
-.down.active {
-    margin-top: 17px;
-    opacity: 1;
-    visibility: visible;
+table {
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
 }
 
-.down i {
-    position: absolute;
-    top: 10px;
-    left: 10px;
+table tr td {
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-family: sans-serif;
+
+}
+
+table tr th {
+    text-align: center;
+    padding: 10px 0px;
+    color: black;
+    text-transform: uppercase;
+    font-family: sans-serif;
+
+}
+
+.white {
+    color: white;
+}
+
+table tr td img {
+    width: 100px;
+}
+
+.boxes {
+    border: 1px solid white;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 3px 10px;
+
+}
+
+.boxes .num {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    padding: 0px 10px;
+}
+
+.boxes .minus {
+    padding-right: 8px;
+}
+
+.boxes .plus {
+    padding-left: 8px;
+}
+
+table tr td span {
+    font-size: 20px;
+    cursor: pointer
+}
+
+button {
+    padding: 8px 20px;
+    font-size: 18px;
+}
+
+button i {
+    color: red;
+    font-size: 25px;
+    padding: 35px 0px;
 }
 
 /* main header */
@@ -364,6 +267,7 @@ nav ul .a1 {
 footer {
     padding: 66px 0px 20px;
     background-color: var(--black);
+    margin-top: 50px;
 }
 
 .f-1 img {

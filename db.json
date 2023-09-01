@@ -7,48 +7,26 @@
       "id": 1
     },
     {
-      "name": "POONAM",
-      "email": "poonam@gmail.com",
+      "name": "RADHI",
+      "email": "radhimiyani218@gmail.com",
       "password": "dgfdSDF3543@@",
       "id": 2
-    }
-  ],
-  "detel": [
-    {
-      "id": 1,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
-      "title": "Lakmé 9to5 Black Impact Liner",
-      "price": 355,
-      "pricesrong": 375,
-      "description": "5% off",
-      "category": "EYELINER",
-      "rating": {
-        "rate": 4.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "2 Verified Ratings"
-      },
-      "calcu": "11 Shades"
     },
     {
-      "id": 2,
-      "image": "https://www.lakmeindia.com/cdn/shop/files/grey_700x.png?v=1686743654",
-      "title": "Lakmé  Shine Line Eye Liner",
-      "price": 473,
-      "pricesrong": 525,
-      "description": "10% off",
-      "category": "EYELINER",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "2 Verified Ratings"
-      },
-      "calcu": "5 Shades"
+      "name": "nency",
+      "email": "rpkotadiya1917@gmail.com",
+      "password": "FVGGVfdgfd34543@@",
+      "id": 3
+    },
+    {
+      "name": "poonam",
+      "email": "kotadiyapoonam@gmail.com",
+      "password": "vfdSDFSD343@@",
+      "id": 4
     }
   ],
+  "cart": [],
+  "detel": [],
   "top": [
     {
       "id": 1,
@@ -145,7 +123,7 @@
     {
       "id": 3,
       "image": "https://www.lakmeindia.com/cdn/shop/products/MakeItMatte-rLiquidLipstickSet_48503358-4cc9-492f-b42a-d69b202843e8_600x.jpg?v=1680784381",
-      "title": "Lakmé Kajal Twin Pack",
+      "title": "Lakmé Kajal Twin ",
       "price": 567,
       "pricesrong": 876,
       "description": "Save ₹20",
@@ -160,7 +138,7 @@
     {
       "id": 4,
       "image": "https://www.lakmeindia.com/cdn/shop/files/1_fd2fa609-4760-4196-822d-7d0dd556626e_400x.jpg?v=1684156853",
-      "title": "Lakmé Primer Nail Color",
+      "title": "Lakmé  Nail Color",
       "price": 1200,
       "pricesrong": 5677,
       "description": "Save ₹10",
@@ -734,7 +712,7 @@
     {
       "id": 5,
       "image": "https://www.lakmeindia.com/cdn/shop/products/precision_700x.png?v=1652874564",
-      "title": "Lakmé Absolute Precision Lip",
+      "title": "Lakmé Absolute Precision Lip Paint",
       "price": 615,
       "pricesrong": 700,
       "description": "10% off",
@@ -785,7 +763,7 @@
     {
       "id": 8,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePlump_ShineLipGlossBeigeShine_700x.jpg?v=1598357336",
-      "title": "Lakmé Absolute Plump & Shine Lip",
+      "title": "Lakmé Absolute Plump & Shine Lip Gloss",
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
@@ -802,7 +780,7 @@
     {
       "id": 9,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Pink-Plush_700x.jpg?v=1653539432",
-      "title": "Lakmé 9to5 Weightless Mousse Lip ",
+      "title": "Lakmé 9to5 Weightless Mousse Lip and Cheek...",
       "price": 574,
       "pricesrong": 675,
       "description": "15% off",
@@ -852,7 +830,7 @@
     },
     {
       "id": 12,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/AbsoluteMatteMeltLiquidLipDuo_700x.jpg?v=1682494945",
+      "image": "hhttps://www.lakmeindia.com/cdn/shop/products/AbsoluteMatteMeltLiquidLipDuo_700x.jpg?v=1682494945",
       "title": "Absolute Matte Melt Liquid Lip Duo",
       "price": 1099,
       "pricesrong": 1600,
@@ -887,7 +865,7 @@
     {
       "id": 14,
       "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Mint_700x.jpg?v=1603466665",
-      "title": "Lakmé  Lip Love Gelato Collection",
+      "title": "Lakmé  Lip Love Gelato Collection, 4.5g",
       "price": 159,
       "pricesrong": 199,
       "description": "31% off",
@@ -904,7 +882,7 @@
     {
       "id": 15,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePlump_ShineLipGlossBeigeShine_700x.jpg?v=1598357336",
-      "title": "Lakmé Absolute Plump & Shine Lip",
+      "title": "Lakmé Absolute Plump & Shine Lip Gloss",
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
@@ -1182,7 +1160,7 @@
       "price": 795,
       "pricesrong": 995,
       "description": "20% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4.9
       },
@@ -1199,7 +1177,7 @@
       "price": 498,
       "pricesrong": 995,
       "description": "50% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4.8
       },
@@ -1216,7 +1194,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 5
       },
@@ -1233,7 +1211,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4
       },
@@ -1250,7 +1228,7 @@
       "price": 795,
       "pricesrong": 995,
       "description": "20% off",
-      "category": "EYE SHADOW",
+      "category": "SHADOW",
       "rating": {
         "rate": 4.9
       },
@@ -1280,5 +1258,40 @@
       "calcu": "8 Shades"
     }
   ],
-  "nails": []
+  "nails": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_700x.jpg?v=1675856497",
+      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
+      "price": 539,
+      "pricesrong": 599,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "8 Shades"
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_700x.jpg?v=1675856497",
+      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
+      "price": 539,
+      "pricesrong": 599,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "8 Shades"
+    }
+  ]
 }
