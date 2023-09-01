@@ -8,60 +8,64 @@
     <link rel="stylesheet" href="/css/home.css">
 </head>
 <body>
+    <!-- header -->
     <div id="navbar"></div> 
+    <div class="logo"></div>
     <!-- main -->
-    <section>
+    <section class="padding">
         <div class="container">
             <div class="imagess">
                <div class="row">
                 <div class="image-box">
-                    <img src="/image/sale.jpg" alt="">
+                    <a href="/pages/lips.html"><img src="/image/1.jpg" alt=""></a>
+                    <h4 class="text-center">Lips</h4>
                 </div>
                 <div class="image-box">
-                    <img src="/image/1.jpg" alt="">
+                    <a href="/pages/eyes.html"><img src="/image/2.jpg" alt=""></a>
+                    <h4 class="text-center">Eyes</h4>
                 </div>
                 <div class="image-box">
-                    <img src="/image/2.jpg" alt="">
+                   <a href="/pages/skin.html"> <img src="/image/3.jpg" alt=""></a>
+                    <h4 class="text-center">Skin</h4>
                 </div>
                 <div class="image-box">
-                    <img src="/image/3.jpg" alt="">
+                    <a href="/pages/nail.html"><img src="/image/4.jpg" alt=""></a>
+                    <h4 class="text-center">Nails</h4>
                 </div>
                 <div class="image-box">
-                    <img src="/image/4.jpg" alt="">
-                </div>
-                <div class="image-box">
-                    <img src="/image/5.jpeg" alt="">
+                    <a href="/pages/face.html"><img src="/image/5.jpeg" alt=""></a>
+                    <h4 class="text-center">Face</h4>
                 </div>
                </div>
             </div>
         </div>
     </section>
     <!-- banner section -->
+    <section>
         <div class="banner-bg"></div>
+    </section>
     <!-- TRENDING NOW section -->
-    <section class="padding-30">
+    <section class="padding">
         <div class="container">
             <div class="title">
                 <h2>TRENDING NOW</h2>
-                <p>Your favourite Lakme makeup and skin care</p>
             </div>
             <div id="trending">
             </div>
         </div>
     </section>
     <!-- TOP 10 PRODUCTS  section -->
-    <section class="padding-30">
+    <section class="padding">
         <div class="container">
             <div class="title">
                 <h1>TOP 10 PRODUCTS</h1>
-                <p>Your favorite Lakmé Make-up and Skin Care.</p>
             </div>
             <div id="top">
             </div>
         </div>
     </section>
      <!-- DEALS YOU CAN'T MISS -->
-     <section class="paddingss">
+     <section class="padding">
         <div class="container">
             <div class="title">
                 <h3>DEALS YOU CAN'T MISS</h3>
@@ -70,7 +74,40 @@
             </div>
         </div>
     </section>
+    <!-- sidebar -->
+    <div class="sidebar">
+        <div class="head row justifly-content">
+            <p>MY CART</p>
+        <i class="fa-solid fa-xmark colsesss"></i>
+        </div>
+        <div class="cart">5-in-1 Gift Kit Added to Cart!</div>
+        <div class="white">
+             <table>
+                <thead>
+                    <tr>
+                        <th>iamge</th>
+                        <th>title</th>
+                        <th>price</th>
+                        <th>qty</th>
+                        <th>total</th>
+                        <th><i class="fa-solid fa-trash-can delete"></i></th>
+                    </tr>
+                </thead>
+                <tbody id="cartItem"></tbody>
+            </table> 
+        </div>
+        <div class="foot">
+            <h3>Total</h3>
+            <div id="total">₹  0.00</div>
+        </div>
+        <button class="btn">
+            <a href="ordersubmit.html">CHECK OUT</a>
+        </button>
+    </div>
+    <!-- footer -->
     <div  id="footer"></div>
+
 </body>
 <script type="module" src="/javascript/home.js"></script>
+<script type="module" src="/javascript/slidbar.js"></script>
 </html>
