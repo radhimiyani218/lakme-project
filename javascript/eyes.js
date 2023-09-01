@@ -1,7 +1,10 @@
+let products = [];
+
 const display = (data) => {
     data.map((products) => {
         let img = document.createElement('img');
         img.src = products.image;
+        
         let title = document.createElement('p');
         title.innerHTML = products.title;
         title.setAttribute('class','title');
@@ -11,7 +14,7 @@ const display = (data) => {
 
 
         let price = document.createElement('p');
-        price.innerHTML = "$ " + products.price;
+        price.innerHTML = "₹ " + products.price;
         price.setAttribute('class','price');
 
         let pricesrong = document.createElement('del');
@@ -21,9 +24,6 @@ const display = (data) => {
         let description = document.createElement('span');
         description.innerHTML = products.description;
         description.setAttribute('class','description');
-
-       
-        // category.setAttribute('class','category');
 
         let box = document.createElement("div");
         box.setAttribute('class','box');
@@ -53,24 +53,112 @@ const display = (data) => {
 
         let btn = document.createElement('Button');
         btn.innerHTML = "BUY NOW";
+        btn.setAttribute('class','btn');
+
         let div = document.createElement('div');
         div.setAttribute('class','main');
+        div.addEventListener("click", () => {
+
+            console.log(products.id)
+            let loggin = localStorage.getItem("loggin")
+            if (loggin) {
+                fetch(`http://localhost:3000/detel?id=${products.id}`)
+                    .then((res) => res.json())
+                    .then((data) => {
+                        if (data.length > 0) {
+                            alert("product was defaine")
+                            fetch(`http://localhost:3000/detel/${products.id}`, {
+                                method: "PATCH",
+                                headers: { "content-type": "application/json" },
+                                body: JSON.stringify(products),
+                            });
+                            console.log(data.length)
+                         
+                        }
+                        else {
+                            fetch("http://localhost:3000/detel", {
+                                method: "POST",
+                                headers: { "content-type": "application/json" },
+                                body: JSON.stringify(products),
+                            });
+                            
+                        }
+                    })
+            }
+            else {
+                alert("you have to loggin first")
+                setTimeout(() => {
+                    window.location.href = "/pages/login.html"
+                }, 1000)
+            }
+        })
 
 
         pricesbox.append(price, pricesrong, description);
-        box.append(rating,ratings,ratingsss)
+        box.append(ratings,ratingsss)
         div.append(img, title,pricesbox,category,box,calcu, btn)
         document.getElementById("eye").append(div)
     })
 }
 
 
+
 const get = () => {
     fetch("http://localhost:3000/eyes")
-        .then((response) => response.json())
+        .then((res) => res.json())
         .then((response) => {
+            console.log(response)
             display(response);
+            products = response;
         
         })
 }
 get()
+
+// sort
+
+const handlelth = () => {
+    document.getElementById("eye").innerHTML=""
+    let data = products.sort((a, b) => a.price - b.price);
+    console.log(data)
+    display(data);
+}
+document.getElementById('lth').addEventListener('click', handlelth)
+
+const handlehtl = () => {
+    document.getElementById("eye").innerHTML=""
+    let data = products.sort((a, b) => b.price - a.price);
+    console.log(data)
+    display(data);
+}
+document.getElementById('htl').addEventListener('click', handlehtl)
+
+// serching
+
+const serching = () => {
+    document.getElementById("eye").innerHTML = ""
+    let value = document.getElementById("value").value
+    let data = products.filter((val) => val.category.includes(value.toUpperCase()));
+    display(data);
+    console.log(data)
+
+}
+
+document.getElementById("value").addEventListener("keypress", (e) => {
+    if (e.key == "Enter")
+        serching();
+})
+
+// dropdown
+document.getElementById("sort").addEventListener("click",()=>{
+    let dropdown = document.querySelector('.dropdown');
+    dropdown.classList.add('active');
+
+   
+    
+})
+document.getElementById("close").addEventListener("click",()=>{
+    let dropdown = document.querySelector('.dropdown');
+    dropdown.classList.remove('active');
+    
+})

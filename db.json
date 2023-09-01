@@ -1042,11 +1042,300 @@
   "skin": [
     {
       "id": 1,
-      "image": "",
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27271_S1-8901030752094_400x.jpg?v=1683095487",
       "title": "",
-      "price": 539,
-      "pricesrong": 599,
+      "price": 689,
+      "pricesrong": 749,
+      "description": "8% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_c1d6ec68-27ba-470c-a6e0-116bf961b27e_400x.jpg?v=1680679833",
+      "title": "",
+      "price": 636,
+      "pricesrong": 949,
+      "description": "33% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "15 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/23048_S1-8901030793950_400x.jpg?v=1681802484",
+      "title": "",
+      "price": 965,
+      "pricesrong": 1049,
+      "description": "8% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "6 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/1_a756a670-eb68-488b-993a-ec168e8b570c_400x.jpg?v=1680074977",
+      "title": "",
+      "price": 297,
+      "pricesrong": 349,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 5,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/1_250748ac-0f4b-4b1f-9ea3-e343483fb49c_400x.jpg?v=1680075388",
+      "title": "",
+      "price": 339,
+      "pricesrong": 399,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 6,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/22362_s1-8901030644832_1_400x.jpg?v=1619159511",
+      "title": "",
+      "price": 314,
+      "pricesrong": 349,
       "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "14 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 7,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme_Absolute_Perfect_Radiance_Skin_Brightening_Light_Creme_50g_400x.jpg?v=1603367330",
+      "title": "BEST SELLER",
+      "price": 449,
+      "pricesrong": 349,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 8,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24003_S1-8901030825279_400x.jpg?v=1682067397",
+      "title": "BEST SELLER",
+      "price": 719,
+      "pricesrong": 899,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 9,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/22749_s1-8901030644900_2_400x.jpg?v=1619170854",
+      "title": "",
+      "price": 449,
+      "pricesrong": 499,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "12 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 10,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/12979_S1-8901030825286_400x.jpg?v=1682065790",
+      "title": "",
+      "price": 679,
+      "pricesrong": 849,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 11,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_2_2a1a26f4-4810-4dc4-af04-0154af25d40d_400x.jpg?v=1625646208",
+      "title": "",
+      "price": 509,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 12,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27766_H-8901030960215_400x.jpg?v=1689233340",
+      "title": "NEW",
+      "price": 249,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 13,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27763_H-8901030960185_400x.jpg?v=1689231274",
+      "title": "NEW",
+      "price": 499,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 14,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27765_H-8901030960208_400x.jpg?v=1689579270",
+      "title": "NEW",
+      "price": 449,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 15,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27272_S5_8901030907562_80e92d10-b375-4134-878f-0343d148d885_400x.jpg?v=1681972058",
+      "title": "NEW",
+      "price": 359,
+      "pricesrong": 399,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 16,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/23049_S2-8901030900228_400x.jpg?v=1681817354",
+      "title": "NEW",
+      "price": 799,
+      "pricesrong": 999,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 17,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/23414_H-8901030907487_400x.jpg?v=1682066723",
+      "title": "",
+      "price": 269,
+      "pricesrong": 299,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 18,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_bd75c4f4-3963-4777-8d0f-52b461b1a7ae_400x.jpg?v=1665835486",
+      "title": "BEST SELLER",
+      "price": 479,
+      "pricesrong": 599,
+      "description": "20% off",
       "category": "Skincare",
       "rating": {
         "rate": 5
@@ -1055,8 +1344,572 @@
         "img": "/image/1.PNG",
         "count": "2 Verified Ratings"
       },
-      "calcu": "8 Shades"
+      "calcu": ""
+    },
+    {
+      "id": 19,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_bd75c4f4-3963-4777-8d0f-52b461b1a7ae_400x.jpg?v=1665835486",
+      "title": "NEW",
+      "price": 479,
+      "pricesrong": 599,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 20,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_6ce3dafe-8ae4-4536-b393-f412179fa8cb_400x.jpg?v=1676454573",
+      "title": "BEST SELLER",
+      "price": 269,
+      "pricesrong": 299,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "34 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 21,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/lakme_400x.jpg?v=1607749101",
+      "title": "BEST SELLER",
+      "price": 269,
+      "pricesrong": 299,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "34 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 22,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27518_H-8901030889899_2_400x.jpg?v=1661750733",
+      "title": "NEW",
+      "price": 460,
+      "pricesrong": 575,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 23,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/12956_S1-8901030669828_400x.jpg?v=1681991427",
+      "title": "",
+      "price": 285,
+      "pricesrong": 575,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "29 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 24,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeSunExpertUltraMatteGelSunscreenSPF50PA_50ML_058ca54b-59d8-43d4-96c6-2f3cb75031f8_400x.jpg?v=1676617394",
+      "title": "",
+      "price": 221,
+      "pricesrong": 276,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "14 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 25,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27444_S1-8901030854958_400x.jpg?v=1632120952",
+      "title": "",
+      "price": 224,
+      "pricesrong": 249,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "6 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 26,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27513_H-8901030877001_400x.png?v=1652095970",
+      "title": "",
+      "price": 466,
+      "pricesrong": 549,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "6 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 27,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePerfectRadianceBrighteningFacialFoam_400x.jpg?v=1598355242",
+      "title": "",
+      "price": 424,
+      "pricesrong": 499,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "6 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 28,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/1000x1000_ALMONDSupplementaryHero-01_400x.jpg?v=1681815560",
+      "title": "NEW",
+      "price": 408,
+      "pricesrong": 480,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "4 Verified Ratings"
+      },
+      "calcu": "4 Shades"
+    },
+    {
+      "id": 29,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5CCComplexionCareCream_9gmBronze_400x.png?v=1653487942",
+      "title": "",
+      "price": 99,
+      "pricesrong": 110,
+      "description": "10% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "25 Verified Ratings"
+      },
+      "calcu": "3 Shades"
+    },
+    {
+      "id": 30,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteBi-PhasedMakeUpRemover_400x.jpg?v=1598335162",
+      "title": "",
+      "price": 288,
+      "pricesrong": 360,
+      "description": "20% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": "3 Shades"
+    },
+    {
+      "id": 31,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme-9to5_Naturale_GelMake-up_Remover_400x.jpg?v=1603709832",
+      "title": "",
+      "price": 190,
+      "pricesrong": 200,
+      "description": "5% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": "3 Shades"
+    },
+    {
+      "id": 32,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27148_H-8901030741845_1_400x.jpg?v=1639047640",
+      "title": "",
+      "price": 100,
+      "pricesrong": 200,
+      "description": "5% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "4 Verified Ratings"
+      },
+      "calcu": "3 Shades"
+    },
+    {
+      "id": 33,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePerfectRadianceMineralClayMask_50g_400x.jpg?v=1603535797",
+      "title": "",
+      "price": 467,
+      "pricesrong": 549,
+      "description": "15% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "4 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 43,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/sheetmask2_400x.jpg?v=1681115067",
+      "title": "",
+      "price": 300,
+      "pricesrong": 500,
+      "description": "40% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":4.5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "4 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 44,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePerfectRadianceFacialKit5x8gm_400x.jpg?v=1598355999",
+      "title": "",
+      "price": 399,
+      "pricesrong": 500,
+      "description": "40% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 45,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27382_H2_8901030810947_400x.jpg?v=1611555012",
+      "price": 299,
+      "pricesrong": 500,
+      "description": "40% off",
+      "category": "Skincare",
+      "rating": {
+        "rate":5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
+      },
+      "calcu": ""
     }
   ],
-  "nails": []
+  "nails": [
+    {
+      "id": 1,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_600x.jpg?v=1675856497",
+      "title": "NEW",
+      "price": 795,
+      "pricesrong": 995,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "44 Shades"
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29509_H-8901030946233_5179fb81-dd9a-481b-9db2-fe6aa2d4e4ad_600x.jpg?v=1674822519",
+      "title": "BEST SELLER",
+      "price": 188,
+      "pricesrong": 250,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 3.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "15 Verified Ratings"
+      },
+      "calcu": "33 Shades"
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteGelStylistNailColorScarletRed_600x.png?v=1598343035",
+      "title": "BEST SELLER",
+      "price": 213,
+      "pricesrong": 250,
+      "description": "15% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "25 Verified Ratings"
+      },
+      "calcu": "63 Shades"
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Reds-_-Maroons-401_600x.jpg?v=1603186885",
+      "title": "",
+      "price": 130,
+      "pricesrong": 180,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "24 Verified Ratings"
+      },
+      "calcu": "14 Shades"
+    },
+    {
+      "id": 5,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Business_600x.jpg?v=1628509200",
+      "title": "",
+      "price": 144,
+      "pricesrong": 180,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
+      },
+      "calcu": "32 Shades"
+    },
+    {
+      "id": 6,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/22629_H-8901030357268_600x.jpg?v=1588942822",
+      "title": "",
+      "price": 90,
+      "pricesrong": 150,
+      "description": "40% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
+      },
+      "calcu": "22 Shades"
+    },
+    {
+      "id": 7,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29509_H-8901030946233_4eec71a6-27aa-408c-bd63-85e79bd82b92_600x.jpg?v=1674284722",
+      "title": "BEST SELLER",
+      "price": 213,
+      "pricesrong": 250,
+      "description": "15% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "",
+        "count": ""
+      },
+      "calcu": "33 Shades"
+    },
+    {
+      "id": 8,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 750,
+      "pricesrong": 1000,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":10,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id":9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    }
+  ],
+  "detel":[
+
+  ]
 }
