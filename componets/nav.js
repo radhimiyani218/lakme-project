@@ -3,7 +3,7 @@ const navbar =()=>{
     <div class="container">
         <div class="row justify-content-between align-items-center">
             <div class="logo">
-                <a href="#">
+                <a href="/pages/home.html#">
                 <img src="/image/logo.png" alt="">
                 </a>
             </div>
@@ -36,7 +36,7 @@ const navbar =()=>{
 <div class="header">
        <div class="containers">
         <div class="search">
-            <input type="text" placeholder="Search Products.in" id="value">
+            <input type="text" placeholder="Search Products..." id="value">
         </div>
        </div>
     </div>`
