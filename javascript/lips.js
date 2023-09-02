@@ -4,6 +4,8 @@ document.getElementById('navbar').innerHTML = Navbar()
 
 // eye code
 let products = [];
+let id = 1;
+
 
 const display = (data) => {
     data.map((products) => {
@@ -57,40 +59,21 @@ const display = (data) => {
 
 
         let btn = document.createElement('Button');
-        btn.innerHTML = "BUY NOW";
+        btn.innerHTML = "VIEW";
         btn.setAttribute('class', 'btn');
 
-        btn.addEventListener("click", () => {
-            console.log(products.id)
-            let loggin = localStorage.getItem("loggin")
-            if (loggin) {
-                fetch(`http://localhost:3000/cart?id=${products.id}`)
-                    .then((res) => res.json())
-                    .then((data) => {
-                        if (data.length > 0) {
-                            fetch(`http://localhost:3000/cart/${products.id}`, {
-                                method: "PATCH",
-                                headers: { "content-type": "application/json" },
-                                body: JSON.stringify({ Qty: data[0].Qty + 1 }),
-                            });
-                            console.log(data.length)
-                        }
-                        else {
-                            fetch("http://localhost:3000/cart", {
-                                method: "POST",
-                                headers: { "content-type": "application/json" },
-                                body: JSON.stringify({ ...products, Qty: 1 }),
-                            });
-                        }
-                    })
-            }
-            else {
-                alert("you have to loggin first")
-                setTimeout(() => {
-                    window.location.href = "/pages/login.html"
-                }, 1000)
-            }
-        })
+        btn.addEventListener("click",()=>{
+            id= products.id;
+            console.log(id);
+             fetch(`http://localhost:3000/lips/${id}`)
+                 .then((res)=>res.json())
+                 .then((data)=>{
+                     console.log(data)
+                     localStorage.setItem("productDetails", JSON.stringify(data));
+                     window.location.href="/pages/detels.html";
+                 })
+           
+         })
         let div = document.createElement('div');
         div.setAttribute('class', 'main');
 

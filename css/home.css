@@ -736,22 +736,6 @@ table tr td span {
     padding: 10px;
 }
 
-.buttons {
-    position: relative;
-}
-
-.buttons i {
-    color: red;
-}
-
-button {
-    background-color: white;
-    width: 20px;
-    border: 1px solid black;
-
-
-}
-
 .number {
     width: 20px;
     color: white;

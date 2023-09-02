@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.w-50{
+    width: 50%;
+}
+.w-10{
+    width: 20%;
+    padding: 3px;
+}
+.imagebox{
+    text-align: center;
+}
+.imagebox img{
+    width: 420px;
+}
+.black{
+    color: black;
+}
+.boxes{
+    margin-top: 80px;
+}
+.content{
+    margin-left: 70px;
+    margin-top: 80px;
+
+}
+.content h1{
+    font-size: 18px;
+}
+.content .pricesss{
+    padding: 20px 0px;
+}
+.content .pricesss #prisess{
+    padding: 0px 50px;
+}
+.content #cat{
+    padding-bottom: 20px;
+    font-size: 500;
+}
+#prices{
+    color:#991f53;
+    font-size: 18px;
+    font-weight: 700;
+}
+#prisess{
+    color:black;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 8px;
+}
+#descri{
+    color:black;
+    font-size: 18px;
+    font-weight: 500;
+}
+.add{
+    padding: 10px 70px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+}
+.imageo img{
+    width: 15px;
+}
+.rate{
+    padding-top: 10px;
+}
+.free{
+    color: #a2372c;
+    font-size: 14px;
+    font-weight: 700;
+    
+}
+.detais{
+    padding-top: 20px;
+}
+.detais h5{
+    font-size: 18px;
+}
+.detais p{
+    font-size: 16px;
+    padding-top: 8px;
+}

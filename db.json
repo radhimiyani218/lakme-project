@@ -21,41 +21,42 @@
   ],
   "cart": [
     {
-      "id": 16,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/24502_H_81cf49de-f318-45c7-b7d3-70df7bcd5acd_700x.png?v=1653473870",
-      "title": "Lakmé Quartet Eye Shadow - ...",
-      "price": 630,
-      "pricesrong": 700,
-      "description": "10% off",
-      "category": "SHADOW",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "7 Verified Ratings"
-      },
-      "calcu": "10 Shades",
-      "Qty": 1
-    },
-    {
       "id": 3,
-      "image": "https://www.lakmeindia.com/cdn/shop/files/29565_H-8901030959899_600x.jpg?v=1686133119",
-      "title": "Lakmé Primer + Shine Lipstick",
+      "image": "https://www.lakmeindia.com/cdn/shop/files/24451_H-8901030742439copy_700x.jpg?v=1688540192",
+      "title": "Lakmé 9 to 5 Primer + Matte Perfect Cover ...",
       "price": 495,
       "pricesrong": 550,
-      "description": "Save ₹55",
+      "description": "10% off",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 5
       },
       "ratings": {
         "img": "/image/1.PNG",
-        "count": "78 Verified Ratings"
+        "count": "1 Verified Ratings"
       },
+      "calcu": "20 Shades",
+      "Qty": 5
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29509_H-8901030946233_5179fb81-dd9a-481b-9db2-fe6aa2d4e4ad_600x.jpg?v=1674822519",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 188,
+      "pricesrong": 250,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 3.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "15 Verified Ratings"
+      },
+      "calcu": "33 Shades",
       "Qty": 1
     }
   ],
-  "detel": [],
   "top": [
     {
       "id": 1,
