@@ -677,7 +677,7 @@
       "price": 999,
       "pricesrong": 1300,
       "description": "23% off",
-      "category": "Lipstick",
+      "category": "LIPSTICK",
       "rating": {
         "rate": 5
       },
@@ -694,7 +694,7 @@
       "price": 495,
       "pricesrong": 550,
       "description": "10% off",
-      "category": "Lipstick",
+      "category": "LIPSTICK",
       "rating": {
         "rate": 4.9
       },
@@ -711,7 +711,7 @@
       "price": 700,
       "pricesrong": 825,
       "description": "15% off",
-      "category": "Lipstick",
+      "category": "LIPSTICK",
       "rating": {
         "rate": 4.9
       },
@@ -728,7 +728,7 @@
       "price": 285,
       "pricesrong": 299,
       "description": "5% off",
-      "category": "Lipstick",
+      "category": "LIPSTICK",
       "rating": {
         "rate": 4.8
       },
@@ -745,7 +745,7 @@
       "price": 615,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "Lipstick",
+      "category": "LIPSTICK",
       "rating": {
         "rate": 5
       },
@@ -762,7 +762,7 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 5
       },
@@ -779,7 +779,7 @@
       "price": 330,
       "pricesrong": 349,
       "description": "5% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 5
       },
@@ -796,7 +796,7 @@
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 5
       },
@@ -813,7 +813,7 @@
       "price": 574,
       "pricesrong": 675,
       "description": "15% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 4.9
       },
@@ -830,7 +830,7 @@
       "price": 680,
       "pricesrong": 800,
       "description": "15% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 5
       },
@@ -847,7 +847,7 @@
       "price": 449,
       "pricesrong": 499,
       "description": "10% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 5
       },
@@ -864,7 +864,7 @@
       "price": 1099,
       "pricesrong": 1600,
       "description": "31% off",
-      "category": "Liquid Lipstick",
+      "category": "LIQUID",
       "rating": {
         "rate": 5
       },
@@ -881,7 +881,7 @@
       "price": 160,
       "pricesrong": 250,
       "description": "31% off",
-      "category": "Lip Blam",
+      "category": "BLAM",
       "rating": {
         "rate": 4.8
       },
@@ -898,7 +898,7 @@
       "price": 159,
       "pricesrong": 199,
       "description": "31% off",
-      "category": "Lip Blam",
+      "category": "BLAM",
       "rating": {
         "rate": 5
       },
@@ -915,7 +915,7 @@
       "price": 400,
       "pricesrong": 500,
       "description": "20% off",
-      "category": "Lip Gloss",
+      "category": "GLOSS",
       "rating": {
         "rate": 5
       },
@@ -932,7 +932,7 @@
       "price": 675,
       "pricesrong": 1350,
       "description": "50% off",
-      "category": "Lip Gloss",
+      "category": "GLOSS",
       "rating": {
         "rate": 5
       },
@@ -949,7 +949,7 @@
       "price": 675,
       "pricesrong": 1000,
       "description": "31% off",
-      "category": "Lip Gloss",
+      "category": "GLOSS",
       "rating": {
         "rate": 5
       },
