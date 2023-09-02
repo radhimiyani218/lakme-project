@@ -1,9 +1,6 @@
 import Navbar from '../componets/nav.js';
 document.getElementById('navbar').innerHTML = Navbar()
 
-import footer from '../componets/footer.js';
-document.getElementById('footer').innerHTML = footer()
-
 const form = document.getElementById('form');
 const name = document.getElementById('name');
 const email = document.getElementById('email');
@@ -129,3 +126,5 @@ function setSuccessMsg(input) {
     const formcontrol = input.parentElement;
     formcontrol.className = "form-control success";
 }
+import footer from '../componets/footer.js';
+document.getElementById('footer').innerHTML = footer()

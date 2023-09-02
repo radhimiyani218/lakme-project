@@ -2,7 +2,6 @@ import Navbar from "../componets/nav.js";
 document.getElementById("navbar").innerHTML = Navbar();
 
 import footer from "../componets/footer.js";
-
 document.getElementById("footer").innerHTML = footer();
 
 let totals = 0;
@@ -10,6 +9,7 @@ let totals = 0;
 const display = (cart) => {
   cart.map((products) => {
     let totalprice = 0;
+
 
     let maindiv = document.createElement("tr");
     maindiv.setAttribute("class", "imagdiv");
@@ -80,7 +80,8 @@ const display = (cart) => {
                 body: JSON.stringify({ Qty: data[0].Qty + 1 }),
               });
               console.log(data.length);
-            } else {
+            } 
+            else {
               fetch("http://localhost:3000/cart", {
                 method: "POST",
                 headers: { "content-type": "application/json" },
@@ -97,7 +98,7 @@ const display = (cart) => {
     });
 
     let total = document.createElement("td");
-    total.innerHTML = totalprice += products.Qty * products.price;
+    total.innerHTML = `₹ ${totalprice += products.Qty * products.price}`;
     console.log(totalprice);
 
     let btn = document.createElement("Button");
