@@ -4,44 +4,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EYE</title>
-    <link rel="stylesheet" href="/css/all.min.css">
-    <link rel="stylesheet" href="/css/lips.css">
-    <link rel="stylesheet" href="/css/home.css">
-
+    <title>LIPS</title>
+    <style>
+        @import url(/css/all.min.css);
+        @import url(/css/lips.css);
+      </style>
 </head>
 
-
 <body>
-    <div id="navbar"></div>
     <!-- header -->
-    <header>
-        <!-- <input type="text" id="value" placeholder="enter the name"> -->
-    </header>
-    <!-- main  -->
-    <div class="container">
-        <div class="row">
-            <div class="lips">
-                <h1>LIPS</h1>
-                <div class="lips_box">
-                    <div class="w-10">
-                        <div class="box2">
-                            <ul>
-                                <li id="sort">Sort<i class="fa-solid fa-chevron-down"></i></li>
-                                <ol class="dropdown">
-                                    <i class="fa-solid fa-xmark" id="close"></i>
-                                    <li id="lth">low to high </li>
-                                    <li id="htl"> high to low</li>
-                                </ol>
-                            </ul>
-                        </div>
-                    </div>
+    <div id="navbar"></div> 
+     <!-- image box -->
+     <section class="padding">
+        <div class="container">
+            <div class="imagess">
+               <div class="row">
+                <div class="image-box">
+                    <a href="/pages/lips.html"><img src="/image/1.jpg" alt=""></a>
+                    <h4 class="text-center">Lips</h4>
                 </div>
-                <div id="lips"></div>
+                <div class="image-box">
+                    <a href="/pages/eyes.html"><img src="/image/2.jpg" alt=""></a>
+                    <h4 class="text-center">Eyes</h4>
+                </div>
+                <div class="image-box">
+                   <a href="/pages/skin.html"> <img src="/image/3.jpg" alt=""></a>
+                    <h4 class="text-center">Skin</h4>
+                </div>
+                <div class="image-box">
+                    <a href="/pages/nail.html"><img src="/image/4.jpg" alt=""></a>
+                    <h4 class="text-center">Nails</h4>
+                </div>
+                <div class="image-box">
+                    <a href="/pages/face.html"><img src="/image/5.jpeg" alt=""></a>
+                    <h4 class="text-center">Face</h4>
+                </div>
+               </div>
             </div>
         </div>
+    </section>
+    <!-- banner section -->
+    <section>
+        <div class="banner-bg"></div>
+    </section>
+    <!-- main  -->
+    <div class="eyes">
+        <div class="eyes_box">
+            <div class="row justify-content-between">
+                <div class="box2 box1">
+                    <ul>
+                        <li id="filter">Filter<i class="fa-solid fa-chevron-down"></i></li>
+                        <ol class=" down">
+                            <i class="fa-solid fa-xmark" id="close"></i>
+                            <li id="LIPSTICK">LIPSTICK </li>
+                            <li id="LIQUID">LIQUID</li>
+                            <li id="BLAM">BLAM</li>
+                            <li id="GLOSS">GLOSS</li>
+                        </ol>
+                    </ul>
+                </div>
+                <div class="box2 ">
+                    <ul>
+                        <li id="sort">Sort<i class="fa-solid fa-chevron-down"></i></li>
+                        <ol class="dropdown">
+                            <i class="fa-solid fa-xmark" id="closed"></i>
+                            <li id="lth">low to high </li>
+                            <li id="htl"> high to low</li>
+                        </ol>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="lips"></div>
     </div>
+    <!-- footer -->
     <div id="footer"></div>
+
 </body>
 <script type="module" src="/javascript/lips.js"></script>
 

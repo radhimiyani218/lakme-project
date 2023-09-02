@@ -7,25 +7,54 @@
       "id": 1
     },
     {
-      "name": "RADHI",
-      "email": "radhimiyani218@gmail.com",
+      "name": "POONAM",
+      "email": "poonam@gmail.com",
       "password": "dgfdSDF3543@@",
       "id": 2
     },
     {
-      "name": "nency",
-      "email": "rpkotadiya1917@gmail.com",
-      "password": "FVGGVfdgfd34543@@",
+      "name": "RADHI",
+      "email": "radhimiyani218@gmail.com",
+      "password": "dgfdSDF3543@@",
       "id": 3
-    },
-    {
-      "name": "poonam",
-      "email": "kotadiyapoonam@gmail.com",
-      "password": "vfdSDFSD343@@",
-      "id": 4
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "id": 16,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24502_H_81cf49de-f318-45c7-b7d3-70df7bcd5acd_700x.png?v=1653473870",
+      "title": "Lakmé Quartet Eye Shadow - ...",
+      "price": 630,
+      "pricesrong": 700,
+      "description": "10% off",
+      "category": "SHADOW",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "7 Verified Ratings"
+      },
+      "calcu": "10 Shades",
+      "Qty": 1
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/29565_H-8901030959899_600x.jpg?v=1686133119",
+      "title": "Lakmé Primer + Shine Lipstick",
+      "price": 495,
+      "pricesrong": 550,
+      "description": "Save ₹55",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "78 Verified Ratings"
+      },
+      "Qty": 1
+    }
+  ],
   "detel": [],
   "top": [
     {
@@ -221,7 +250,7 @@
       "price": 655,
       "pricesrong": 875,
       "description": "25% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 3.9
       },
@@ -238,7 +267,7 @@
       "price": 285,
       "pricesrong": 299,
       "description": "5% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 3.7
       },
@@ -255,7 +284,7 @@
       "price": 495,
       "pricesrong": 550,
       "description": "10% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 5
       },
@@ -272,7 +301,7 @@
       "price": 540,
       "pricesrong": 600,
       "description": "10% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.8
       },
@@ -289,7 +318,7 @@
       "price": 180,
       "pricesrong": 400,
       "description": "25% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.8
       },
@@ -306,7 +335,7 @@
       "price": 175,
       "pricesrong": 250,
       "description": "5% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.8
       },
@@ -323,7 +352,7 @@
       "price": 333,
       "pricesrong": 350,
       "description": "5% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 5
       },
@@ -340,7 +369,7 @@
       "price": 660,
       "pricesrong": 825,
       "description": "20% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.6
       },
@@ -357,7 +386,7 @@
       "price": 640,
       "pricesrong": 800,
       "description": "20% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.8
       },
@@ -374,7 +403,7 @@
       "price": 468,
       "pricesrong": 585,
       "description": "20% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.9
       },
@@ -391,7 +420,7 @@
       "price": 745,
       "pricesrong": 875,
       "description": "15% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 5
       },
@@ -408,7 +437,7 @@
       "price": 600,
       "pricesrong": 875,
       "description": "25% off",
-      "category": "Foundation",
+      "category": "FOUNDATION",
       "rating": {
         "rate": 4.9
       },
@@ -425,7 +454,7 @@
       "price": 699,
       "pricesrong": 875,
       "description": "20% off",
-      "category": "Primer",
+      "category": "PRIMER",
       "rating": {
         "rate": 3.2
       },
@@ -442,7 +471,7 @@
       "price": 1699,
       "pricesrong": 2024,
       "description": "16% off",
-      "category": "Primer",
+      "category": "PRIMER",
       "rating": {
         "rate": 4.8
       },
@@ -459,7 +488,7 @@
       "price": 1199,
       "pricesrong": 1550,
       "description": "23% off",
-      "category": "Primer",
+      "category": "PRIMER",
       "rating": {
         "rate": 3.2
       },
@@ -476,7 +505,7 @@
       "price": 1799,
       "pricesrong": 1999,
       "description": "10% off",
-      "category": "Primer",
+      "category": "PRIMER",
       "rating": {
         "rate": 4.5
       },
@@ -493,7 +522,7 @@
       "price": 1299,
       "pricesrong": 1550,
       "description": "16% off",
-      "category": "Primer",
+      "category": "PRIMER",
       "rating": {
         "rate": 2
       },
@@ -510,7 +539,7 @@
       "price": 630,
       "pricesrong": 700,
       "description": "10% off",
-      "category": "Highlighter",
+      "category": "HIGHLIGHTER",
       "rating": {
         "rate": 5
       },
@@ -527,7 +556,7 @@
       "price": 999,
       "pricesrong": 1125,
       "description": "11% off",
-      "category": "Highlighter",
+      "category": "HIGHLIGHTER",
       "rating": {
         "rate": 4
       },
@@ -544,7 +573,7 @@
       "price": 585,
       "pricesrong": 650,
       "description": "10% off",
-      "category": "Compact",
+      "category": "COMPACT",
       "rating": {
         "rate": 5
       },
@@ -561,7 +590,7 @@
       "price": 495,
       "pricesrong": 550,
       "description": "10% off",
-      "category": "Compact",
+      "category": "COMPACT",
       "rating": {
         "rate": 4.8
       },
@@ -578,7 +607,7 @@
       "price": 745,
       "pricesrong": 875,
       "description": "15% off",
-      "category": "Compact",
+      "category": "COMPACT",
       "rating": {
         "rate": 5
       },
@@ -595,7 +624,7 @@
       "price": 180,
       "pricesrong": 400,
       "description": "10% off",
-      "category": "Compact",
+      "category": "COMPACT",
       "rating": {
         "rate": 5
       },
@@ -612,7 +641,7 @@
       "price": 219,
       "pricesrong": 230,
       "description": "5% off",
-      "category": "Compact",
+      "category": "COMPACT",
       "rating": {
         "rate": 5
       },
@@ -629,7 +658,7 @@
       "price": 285,
       "pricesrong": 650,
       "description": "10% off",
-      "category": "Compact",
+      "category": "COMPACT",
       "rating": {
         "rate": 5
       },
@@ -695,7 +724,7 @@
     {
       "id": 4,
       "image": "https://www.lakmeindia.com/cdn/shop/products/24704H8901030776533_700x.png?v=1653496333",
-      "title": "Lakmé Cushion Matte",
+      "title": "Lakmé Cushion Matte Lip Paint",
       "price": 285,
       "pricesrong": 299,
       "description": "5% off",
@@ -712,7 +741,7 @@
     {
       "id": 5,
       "image": "https://www.lakmeindia.com/cdn/shop/products/precision_700x.png?v=1652874564",
-      "title": "Lakmé Absolute Precision Lip Paint",
+      "title": "Lakmé Absolute Precision ",
       "price": 615,
       "pricesrong": 700,
       "description": "10% off",
@@ -728,7 +757,7 @@
     },
     {
       "id": 6,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/29447_H1-8901030946714_700x.jpg?v=1675325748",
+      "image": "https://www.lakmeindia.com/cdn/shop/files/lakme25788-NUDESENSATION_600x.jpg?v=1693550972",
       "title": "Lakmé Absolute Sheer Lip Mousse",
       "price": 585,
       "pricesrong": 650,
@@ -746,7 +775,7 @@
     {
       "id": 7,
       "image": "https://www.lakmeindia.com/cdn/shop/products/29324_H-8901030899836_700x.jpg?v=1672751062",
-      "title": "Lakmé Forever Matte Liquid Lip",
+      "title": "Lakmé Forever Matte Liquid Lip AND CHEEK...",
       "price": 330,
       "pricesrong": 349,
       "description": "5% off",
@@ -830,7 +859,7 @@
     },
     {
       "id": 12,
-      "image": "hhttps://www.lakmeindia.com/cdn/shop/products/AbsoluteMatteMeltLiquidLipDuo_700x.jpg?v=1682494945",
+      "image": "https://www.lakmeindia.com/cdn/shop/products/AbsoluteMatteMeltLiquidLipDuo_700x.jpg?v=1682494945",
       "title": "Absolute Matte Melt Liquid Lip Duo",
       "price": 1099,
       "pricesrong": 1600,
@@ -848,7 +877,7 @@
     {
       "id": 13,
       "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeLipLoveChapstickPurelipcare_700x.png?v=1598359636",
-      "title": "Lakmé Lip Love Chapstick",
+      "title": "Lakmé Lip Love Chapstick Collection, 4.5g",
       "price": 160,
       "pricesrong": 250,
       "description": "31% off",
@@ -1242,12 +1271,301 @@
   "skin": [
     {
       "id": 1,
-      "image": "",
-      "title": "",
-      "price": 539,
-      "pricesrong": 599,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27271_S1-8901030752094_400x.jpg?v=1683095487",
+      "title": "LAKMÉ ABSOLUTE HYDRA PRO GEL CRÈME ",
+      "price": 689,
+      "pricesrong": 749,
+      "description": "8% off",
+      "category": "SKINCARE",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "2"
+    },
+    {
+      "id": 2,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_c1d6ec68-27ba-470c-a6e0-116bf961b27e_400x.jpg?v=1680679833",
+      "title": "LAKMÉ ABSOLUTE HYDRA PRO OVERNIGHT GEL",
+      "price": 636,
+      "pricesrong": 949,
+      "description": "33% off",
+      "category": "SKINCARE",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "15 Verified Ratings"
+      },
+      "calcu": "4"
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/23048_S1-8901030793950_400x.jpg?v=1681802484",
+      "title": "LAKMÉ YOUTH INFINITY SKIN FIRMING DAY CREME",
+      "price": 965,
+      "pricesrong": 1049,
+      "description": "8% off",
+      "category": "SKINCARE",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "6 Verified Ratings"
+      },
+      "calcu": "5"
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5NaturaleAloeAquaGel_600x.png?v=1598252908",
+      "title": "LAKMÉ YOUTH INFINITY SKIN FIRMING NIGHT CREME",
+      "price": 297,
+      "pricesrong": 349,
+      "description": "15% off",
+      "category": "SKINCARE",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
+      },
+      "calcu": "8"
+    },
+    {
+      "id": 5,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/1_250748ac-0f4b-4b1f-9ea3-e343483fb49c_400x.jpg?v=1680075388",
+      "title": "LAKMÉ YOUTH INFINITY SKIN FIRMING DAY CREME",
+      "price": 339,
+      "pricesrong": 399,
+      "description": "15% off",
+      "category": "SKINCARE",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "5 Verified Ratings"
+      },
+      "calcu": "5"
+    },
+    {
+      "id": 6,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/22362_s1-8901030644832_1_400x.jpg?v=1619159511",
+      "title": "LAKMÉ 9 TO 5 VITAMIN C+ NIGHT CREAM – 50GM",
+      "price": 314,
+      "pricesrong": 349,
       "description": "10% off",
-      "category": "Skincare",
+      "category": "SKINCARE",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "14 Verified Ratings"
+      },
+      "calcu": "3"
+    },
+    {
+      "id": 7,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme_Absolute_Perfect_Radiance_Skin_Brightening_Light_Creme_50g_400x.jpg?v=1603367330",
+      "title": "LAKMÉ ABSOLUTE PERFECT RADIANCE SKIN BRIGH...",
+      "price": 449,
+      "pricesrong": 349,
+      "description": "15% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": "8"
+    },
+    {
+      "id": 8,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/24003_S1-8901030825279_400x.jpg?v=1682067397",
+      "title": "LAKMÉ ABSOLUTE PERFECT RADIANCE SKIN BRIGH...",
+      "price": 719,
+      "pricesrong": 899,
+      "description": "20% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
+      },
+      "calcu": "2"
+    },
+    {
+      "id": 9,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/22749_s1-8901030644900_2_400x.jpg?v=1619170854",
+      "title": "LAKMÉ ABSOLUTE PERFECT RADIANCE SKIN BRIGH...",
+      "price": 449,
+      "pricesrong": 499,
+      "description": "10% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "12 Verified Ratings"
+      },
+      "calcu": "4"
+    },
+    {
+      "id": 10,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/12979_S1-8901030825286_400x.jpg?v=1682065790",
+      "title": "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-C...",
+      "price": 679,
+      "pricesrong": 849,
+      "description": "20% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": "5"
+    },
+    {
+      "id": 11,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_2_2a1a26f4-4810-4dc4-af04-0154af25d40d_400x.jpg?v=1625646208",
+      "title": "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-C...",
+      "price": 509,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": "8"
+    },
+    {
+      "id": 12,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27766_H-8901030960215_400x.jpg?v=1689233340",
+      "title": "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-GEL",
+      "price": 249,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": "6"
+    },
+    {
+      "id": 13,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27763_H-8901030960185_400x.jpg?v=1689231274",
+      "title": "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-GEL",
+      "price": 499,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": "5"
+    },
+    {
+      "id": 14,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/27765_H-8901030960208_400x.jpg?v=1689579270",
+      "title": "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-GEL",
+      "price": 449,
+      "pricesrong": 599,
+      "description": "15% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": "3"
+    },
+    {
+      "id": 15,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/27272_S5_8901030907562_80e92d10-b375-4134-878f-0343d148d885_400x.jpg?v=1681972058",
+      "title": "LAKMÉ ABSOLUTE HYDRA PRO TINTED MOISTURISER",
+      "price": 359,
+      "pricesrong": 399,
+      "description": "10% off",
+      "category": "MAKEUP",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "8 Verified Ratings"
+      },
+      "calcu": "5"
+    },
+    {
+      "id": 16,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/23049_S2-8901030900228_400x.jpg?v=1681817354",
+      "title": "LAKMÉ ABSOLUTE HYDRA PRO TINTED MOISTURISER",
+      "price": 799,
+      "pricesrong": 999,
+      "description": "20% off",
+      "category": "SERUMS",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
+      },
+      "calcu": "6"
+    },
+    {
+      "id": 17,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/23414_H-8901030907487_400x.jpg?v=1682066723",
+      "title": "LAKMÉ ABSOLUTE HYDRA PRO TINTED MOISTURISER",
+      "price": 269,
+      "pricesrong": 299,
+      "description": "10% off",
+      "category": "SERUMS",
+      "rating": {
+        "rate": 4.5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "2 Verified Ratings"
+      },
+      "calcu": "5"
+    },
+    {
+      "id": 18,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_bd75c4f4-3963-4777-8d0f-52b461b1a7ae_400x.jpg?v=1665835486",
+      "title": "LAKMÉ ABSOLUTE PERFECT RADIANCE SKIN BRIGH...",
+      "price": 479,
+      "pricesrong": 599,
+      "description": "20% off",
+      "category": "SERUMS",
       "rating": {
         "rate": 5
       },
@@ -1255,18 +1573,52 @@
         "img": "/image/1.PNG",
         "count": "2 Verified Ratings"
       },
-      "calcu": "8 Shades"
+      "calcu": "2"
+    },
+    {
+      "id": 19,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/12904_H-8901030916212_4e8ce197-1287-486d-984b-d9bb148f6b42_600x.jpg?v=1681989683",
+      "title": "LAKMÉ 9 TO 5 VITAMIN C+ NIGHT CREAM 50GM",
+      "price": 479,
+      "pricesrong": 599,
+      "description": "20% off",
+      "category": "SERUMS",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "3 Verified Ratings"
+      },
+      "calcu": "2"
+    },
+    {
+      "id": 20,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/FOP_600x.png?v=1680688766",
+      "title": "LAKMÉ ABSOLUTE HYDRA PRO OVERNIGHT GEL",
+      "price": 269,
+      "pricesrong": 299,
+      "description": "10% off",
+      "category": "SERUMS",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "34 Verified Ratings"
+      },
+      "calcu": "3"
     }
   ],
   "nails": [
     {
       "id": 1,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_700x.jpg?v=1675856497",
-      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
-      "price": 539,
-      "pricesrong": 599,
-      "description": "10% off",
-      "category": "Skincare",
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_600x.jpg?v=1675856497",
+      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL",
+      "price": 795,
+      "pricesrong": 995,
+      "description": "20% off",
+      "category": "NAIL COLOR",
       "rating": {
         "rate": 5
       },
@@ -1274,16 +1626,135 @@
         "img": "/image/1.PNG",
         "count": "1 Verified Ratings"
       },
-      "calcu": "8 Shades"
+      "calcu": "44 Shades"
     },
     {
       "id": 2,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_700x.jpg?v=1675856497",
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29509_H-8901030946233_5179fb81-dd9a-481b-9db2-fe6aa2d4e4ad_600x.jpg?v=1674822519",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 188,
+      "pricesrong": 250,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 3.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "15 Verified Ratings"
+      },
+      "calcu": "33 Shades"
+    },
+    {
+      "id": 3,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteGelStylistNailColorScarletRed_600x.png?v=1598343035",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 213,
+      "pricesrong": 250,
+      "description": "15% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "25 Verified Ratings"
+      },
+      "calcu": "63 Shades"
+    },
+    {
+      "id": 4,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Reds-_-Maroons-401_600x.jpg?v=1603186885",
       "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
-      "price": 539,
-      "pricesrong": 599,
-      "description": "10% off",
-      "category": "Skincare",
+      "price": 130,
+      "pricesrong": 180,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "24 Verified Ratings"
+      },
+      "calcu": "14 Shades"
+    },
+    {
+      "id": 5,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/Berry-Business_600x.jpg?v=1628509200",
+      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL COLOR",
+      "price": 144,
+      "pricesrong": 180,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "20 Verified Ratings"
+      },
+      "calcu": "32 Shades"
+    },
+    {
+      "id": 6,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/22629_H-8901030357268_600x.jpg?v=1588942822",
+      "title": "LAKMÉ TRUE WEAR COLOR CRUSH NAIL",
+      "price": 90,
+      "pricesrong": 150,
+      "description": "40% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.8
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "13 Verified Ratings"
+      },
+      "calcu": "22 Shades"
+    },
+    {
+      "id": 7,
+      "image": "https://www.lakmeindia.com/cdn/shop/products/29509_H-8901030946233_4eec71a6-27aa-408c-bd63-85e79bd82b92_600x.jpg?v=1674284722",
+      "title": "LAKMÉ TRUE WEAR COLOR CRUSH NAIL",
+      "price": 213,
+      "pricesrong": 250,
+      "description": "15% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4.9
+      },
+      "ratings": {
+        "img": "",
+        "count": ""
+      },
+      "calcu": "33 Shades"
+    },
+    {
+      "id": 8,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ TRUE WEAR COLOR CRUSH NAIL",
+      "price": 750,
+      "pricesrong": 1000,
+      "description": "25% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 4
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "40 Shades"
+    },
+    {
+      "id": 9,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
       "rating": {
         "rate": 5
       },
@@ -1291,7 +1762,109 @@
         "img": "/image/1.PNG",
         "count": "1 Verified Ratings"
       },
-      "calcu": "8 Shades"
+      "calcu": "50 Shades"
+    },
+    {
+      "id": 10,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "20 Shades"
+    },
+    {
+      "id": 11,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "NAIL COLOR",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "10 Shades"
+    },
+    {
+      "id": 12,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "POLISH REMOVER",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "25 Shades"
+    },
+    {
+      "id": 13,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "POLISH REMOVER",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": ""
+    },
+    {
+      "id": 14,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ ABSOLUTE GEL STYLIST NAIL",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "POLISH REMOVER",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "50 Shades"
+    },
+    {
+      "id": 15,
+      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsoluteGelStylistNailcolorvalueSet_67148190-c52d-41be-ad3a-4326539354b1_600x.jpg?v=1688544312",
+      "title": "LAKMÉ TRUE WEAR NAIL COLOR",
+      "price": 620,
+      "pricesrong": 775,
+      "description": "20% off",
+      "category": "POLISH REMOVER",
+      "rating": {
+        "rate": 5
+      },
+      "ratings": {
+        "img": "/image/1.PNG",
+        "count": "1 Verified Ratings"
+      },
+      "calcu": "22 Shades"
     }
   ]
 }
