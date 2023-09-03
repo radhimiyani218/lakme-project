@@ -8,8 +8,13 @@ let pages = JSON.parse(localStorage.getItem("productDetails"));
 
 
 const datas=(data)=>{
+    document.getElementById("imagebox").src=`${data.image}`;
+    document.getElementById("i1").src=`${data.images.img1}`;
+    document.getElementById("i2").src=`${data.images.img2}`;
+    document.getElementById("i3").src=`${data.images.img3}`;
+    document.getElementById("i4").src=`${data.images.img4}`;
+    document.getElementById("i5").src=`${data.images.img5}`;
 
-    document.getElementById("pimg").src=`${data.image}`;
     document.getElementById("titles").innerHTML=`${data.title}`;
     document.getElementById("rate").innerHTML=`${data.rating.rate}`;
     document.getElementById("ver").innerHTML=`${data.ratings.count}`;
