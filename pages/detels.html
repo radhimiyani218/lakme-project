@@ -20,39 +20,34 @@
         <div class="container">
             <div class="row">
                 <div class="w-50">
-                    <div class="imagebox">
-                        <img src="" alt="" id="pimg">
+                    <div class="image_box">
+                        <img src="" alt=""  id="imagebox">
                     </div>
                     <div class="imgsbox">
                         <div class="row">
                             <div class="w-10">
                                 <div class="imagesss">
-                                    <img src="https://www.lakmeindia.com/cdn/shop/files/29634_S6-8901030971433_160x.jpg?v=1686136654"
-                                        alt="">
+                                    <img src="" alt="" id="i1" onclick="clickimg(this)">
                                 </div>
                             </div>
                             <div class="w-10">
                                 <div class="imagesss">
-                                    <img src="https://www.lakmeindia.com/cdn/shop/files/29634_S6-8901030971433_160x.jpg?v=1686136654"
-                                        alt="">
+                                    <img src="" alt="" id="i2" onclick="clickimg(this)">
                                 </div>
                             </div>
                             <div class="w-10">
                                 <div class="imagesss">
-                                    <img src="https://www.lakmeindia.com/cdn/shop/files/29634_S6-8901030971433_160x.jpg?v=1686136654"
-                                        alt="">
+                                    <img src="" alt="" id="i3" onclick="clickimg(this)">
                                 </div>
                             </div>
                             <div class="w-10">
                                 <div class="imagesss">
-                                    <img src="https://www.lakmeindia.com/cdn/shop/files/29634_S6-8901030971433_160x.jpg?v=1686136654"
-                                        alt="">
+                                    <img src=""  alt="" id="i4" onclick="clickimg(this)">
                                 </div>
                             </div>
                             <div class="w-10">
                                 <div class="imagesss">
-                                    <img src="https://www.lakmeindia.com/cdn/shop/files/29634_S6-8901030971433_160x.jpg?v=1686136654"
-                                        alt="">
+                                    <img src="" alt="" id="i5" onclick="clickimg(this)">
                                 </div>
                             </div>
                         </div>
@@ -94,6 +89,15 @@
     </div>
     <!-- footer -->
     <div id="footer"></div>
+
+    <script>
+
+        function clickimg(smallimg){
+            console.log(smallimg);
+            var fullimg =document.getElementById("imagebox");
+            fullimg.src = smallimg.src
+        }
+    </script>
 </body>
 <script type="module" src="/javascript/detels.js"></script>
 
