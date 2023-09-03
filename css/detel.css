@@ -18,10 +18,10 @@
     width: 20%;
     padding: 3px;
 }
-.imagebox{
+.image_box{
     text-align: center;
 }
-.imagebox img{
+.image_box img{
     width: 420px;
 }
 .black{
@@ -95,4 +95,7 @@
 .detais p{
     font-size: 16px;
     padding-top: 8px;
+}
+.imgsbox{
+    margin-top: 30PX;
 }
