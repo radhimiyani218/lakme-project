@@ -5,282 +5,34 @@
       "email": "rpkotadiya1917@gmail.com",
       "password": "Nency2002@",
       "id": 1
+    },
+    {
+      "name": "radhi",
+      "email": "radhimiyani218@gmail.com",
+      "password": "Radhi@@2004",
+      "id": 1
+    },
+    {
+      "name": "priyanshi",
+      "email": "priyanshi07@gmail.com",
+      "password": "cvAS#@",
+      "id": 1
+    },
+    {
+      "name": "tisha",
+      "email": "tishakalathiya@gmail.com",
+      "password": "hj@G",
+      "id": 1
+    },
+    {
+      "name": "drashti",
+      "email": "drahstikakdiya@gmail.com",
+      "password": "kuh@@RFGHN",
+      "id": 1
     }
+    
   ],
-  "cart": [
-    {
-      "id": 13,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/MediumToffee_700x.png?v=1672829916",
-      "title": "Lakmé Absolute Mattreal Skin Natural Mousse",
-      "price": 655,
-      "pricesrong": 875,
-      "description": "25% off",
-      "category": "FOUNDATION",
-      "rating": {
-        "rate": 3.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "13 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/23037_H-8901030461996_160x.jpg?v=1672831610",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/23037_S2-8901030461996_160x.jpg?v=1672831610",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/23037_S1-8901030461996_160x.jpg?v=1672831610",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/23037_S3-8901030461996_160x.jpg?v=1672831610",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/23037_S7-8901030461996_160x.jpg?v=1672831610"
-      },
-      "calcu": "9 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 37,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/12956_S1-8901030669828_700x.jpg?v=1681991427",
-      "title": "Lakmé Sun Expert Ultra Matte SPF 40 PA+++ ...",
-      "price": 285,
-      "pricesrong": 650,
-      "description": "10% off",
-      "category": "COMPACT",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "29 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/12956_S2-8901030669828_400x.jpg?v=1681991427",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/12956_S3-8901030669828_400x.jpg?v=1681991427",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/12956_S5-8901030669828_400x.jpg?v=1681991427",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/12956_S7-8901030669828_400x.jpg?v=1681991427",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/12956_S6-8901030669828_400x.jpg?v=1681991427"
-      },
-      "calcu": "8 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 93,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/29433_H-8901030946325_97546b2e-2882-433c-83ba-34a960178252_600x.jpg?v=1675856497",
-      "title": "LAKMÉ 9 TO 5 PRIMER + GLOSS NAIL",
-      "price": 795,
-      "pricesrong": 995,
-      "description": "20% off",
-      "category": "NAIL COLOR",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "1 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/Lilac-Link_160x.jpg?v=1628509200",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/9TC9BA_1_160x.jpg?v=1628509200",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/Pink-Pace_160x.jpg?v=1628509200",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/Red-Alert_160x.jpg?v=1628509200",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/peachblossom1_160x.jpg?v=1674045967"
-      },
-      "calcu": "44 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 107,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/NailHardener_600x.jpg?v=1626677949",
-      "title": "LAKMÉ TRUE WEAR NAIL COLOR",
-      "price": 789,
-      "pricesrong": 810,
-      "description": "20% off",
-      "category": "POLISH REMOVER",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "1 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/S5_9bd955bf-3669-4324-a939-b432ecdb73bf_160x.jpg?v=1688619300",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/C6_7c38949b-f4ab-4ae7-9f0c-94120bb458a1_1_160x.jpg?v=1688619300",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/S1_b5df64fe-0241-481b-90d3-7df08baf3191_160x.jpg?v=1688619300",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/S1_b5df64fe-0241-481b-90d3-7df08baf3191_160x.jpg?v=1688619300",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/S1_b5df64fe-0241-481b-90d3-7df08baf3191_160x.jpg?v=1688619300"
-      },
-      "calcu": "22 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 73,
-      "image": "https://www.lakmeindia.com/cdn/shop/files/27271_S1-8901030752094_400x.jpg?v=1683095487",
-      "title": "LAKMÉ ABSOLUTE HYDRA PRO GEL CRÈME ",
-      "price": 689,
-      "pricesrong": 749,
-      "description": "8% off",
-      "category": "SKINCARE",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "1 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/files/27271_S1-8901030752094_160x.jpg?v=1683095487",
-        "img2": "https://www.lakmeindia.com/cdn/shop/files/27271_S2-8901030752094_160x.jpg?v=1683095487",
-        "img3": "https://https://www.lakmeindia.com/cdn/shop/files/27271_S3-8901030752094_160x.png?v=1683095685",
-        "img4": "https://www.lakmeindia.com/cdn/shop/files/27271_S7-8901030752094_160x.jpg?v=1683095685",
-        "img5": "https://www.lakmeindia.com/cdn/shop/files/27271_S3-8901030752094_160x.png?v=1683095685"
-      },
-      "calcu": "2",
-      "Qty": 1
-    },
-    {
-      "id": 83,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_2_2a1a26f4-4810-4dc4-af04-0154af25d40d_400x.jpg?v=1625646208",
-      "title": "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-C...",
-      "price": 509,
-      "pricesrong": 599,
-      "description": "15% off",
-      "category": "MAKEUP",
-      "rating": {
-        "rate": 4.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "8 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_2_2a1a26f4-4810-4dc4-af04-0154af25d40d_160x.jpg?v=1625646208",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_5_160x.jpg?v=1625646208",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_2_2a1a26f4-4810-4dc4-af04-0154af25d40d_160x.jpg?v=1625646208",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_5_160x.jpg?v=1625646208",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/01_Lakme_ecomm_-Tinted_2_2a1a26f4-4810-4dc4-af04-0154af25d40d_160x.jpg?v=1625646208"
-      },
-      "calcu": "8",
-      "Qty": 1
-    },
-    {
-      "id": 55,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_700x.jpg?v=1598250959",
-      "title": "Lakmé 9to5 Black Impact Liner",
-      "price": 355,
-      "pricesrong": 375,
-      "description": "5% off",
-      "category": "EYELINER",
-      "rating": {
-        "rate": 4.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "2 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5BlackImpactLiner_160x.jpg?v=1598250959",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/93c2d0dlak_8901030290190_3_160x.jpg?v=1620651830",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/02_be90e124-7070-4df1-b924-a4f5949852a9_160x.jpg?v=1620651833",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/93c2d0dlak_8901030290190_4_160x.jpg?v=1620651830"
-      },
-      "calcu": "11 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 62,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme_Kajal_Black_700x.jpg?v=1603366879",
-      "title": "Lakme Kajal-Black",
-      "price": 85,
-      "pricesrong": 150,
-      "description": "6% off",
-      "category": "KAJAL",
-      "rating": {
-        "rate": 4.9
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "14 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/Lakme_Kajal_Black_160x.jpg?v=1603366879",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/19544_S3-8901030174827_160x.jpg?v=1589271621",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/19544_S2-8901030174827_160x.jpg?v=1589271621"
-      },
-      "calcu": "5 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 69,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/Lakme9to5EyeColorQuartetEyeShadow-DesertRose_700x.jpg?v=1598251064",
-      "title": "Eye shadow Palette...",
-      "price": 498,
-      "pricesrong": 995,
-      "description": "50% off",
-      "category": "SHADOW",
-      "rating": {
-        "rate": 4.8
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "12 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsoluteInfinityEyeshadowPalette-MidnightMagic_160x.png?v=1653473701",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/Midnight-Magic-eye_160x.jpg?v=1653473701",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/24504_H2_cb6c1362-28a0-4f1d-823a-7a29b0e76b26_160x.jpg?v=1653473701",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/24504_H2_cb6c1362-28a0-4f1d-823a-7a29b0e76b26_160x.jpg?v=1653473701",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/24504_S4_3790f59e-6699-44f3-a448-a232420e66b9_160x.jpg?v=1653473701"
-      },
-      "calcu": "50 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 38,
-      "image": "https://www.lakmeindia.com/cdn/shop/files/LakmeAbsolutePrecisionLipPaintValueSet_700x.jpg?v=1688544468",
-      "title": "LAKMÉ ABSOLUTE PRECISION LIP PAINT VALUE SET",
-      "price": 999,
-      "pricesrong": 1300,
-      "description": "23% off",
-      "category": "LIPSTICK",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "29 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/24345_S6-8901030724268_160x.jpg?v=1674040406",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/24345_S1-8901030724268_160x.jpg?v=1674040406",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/24345_H-8901030724268_160x.jpg?v=1674040406",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/24345_S4-8901030724268_160x.jpg?v=1674040406",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/24345_S3-8901030724268_160x.jpg?v=1674040406"
-      },
-      "calcu": "8 Shades",
-      "Qty": 1
-    },
-    {
-      "id": 45,
-      "image": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePlump_ShineLipGlossBeigeShine_700x.jpg?v=1598357336",
-      "title": "Lakmé Absolute Plump & Shine Lip Gloss",
-      "price": 400,
-      "pricesrong": 500,
-      "description": "20% off",
-      "category": "LIQUID",
-      "rating": {
-        "rate": 5
-      },
-      "ratings": {
-        "img": "/image/1.PNG",
-        "count": "29 Verified Ratings"
-      },
-      "images": {
-        "img1": "https://www.lakmeindia.com/cdn/shop/products/LakmeAbsolutePlump_ShineLipGlossPlumShine_160x.jpg?v=1598357816",
-        "img2": "https://www.lakmeindia.com/cdn/shop/products/plump-shine_160x.jpg?v=1568875565",
-        "img3": "https://www.lakmeindia.com/cdn/shop/products/untitled5_2_-Copy_160x.jpg?v=1592220794",
-        "img4": "https://www.lakmeindia.com/cdn/shop/products/Range-Plum-and-shine_a8e90186-16ef-4c50-a882-3d0d918e97b6_160x.jpg?v=1598358163",
-        "img5": "https://www.lakmeindia.com/cdn/shop/products/Plump-_-Shine_d4140326-738e-4faf-9c84-fbdc09a3fd6d_160x.jpg?v=1598358163"
-      },
-      "calcu": "8 Shades",
-      "Qty": 1
-    }
-  ],
+  "cart": [],
   "top": [
     {
       "id": 1,
